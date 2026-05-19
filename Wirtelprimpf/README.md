@@ -1,70 +1,22 @@
-# Wirtelprimpf
+# Wirtelprimpf Images
 
-Dieser Ordner wird automatisch vom lokalen Wirtelprimpf-Generator auf
-`/home/teladi` befuellt.
+This folder contains generated Wirtelprimpf images and the prompt text files
+that produced them.
 
-## Ablauf
-
-- `systemd --user` startet `wirtelprimpf.timer` einmal pro Stunde.
-- Der Timer startet `wirtelprimpf.service`.
-- Der Service liest `~/.config/wirtelprimpf/openai.env`.
-- Das Python-Skript erzeugt ein neues Bild mit der OpenAI Images API.
-- Das Bild und der verwendete Prompt werden lokal unter
-  `/home/teladi/Hintergrundbilder` gespeichert.
-- Dieselben zwei Dateien werden in diesen Repo-Ordner `Wirtelprimpf/` kopiert.
-- Danach committet und pusht das Skript die neuen Dateien nach GitHub.
-
-## Lokale Dateien
+Each image is stored together with a `.txt` file using the same timestamped
+filename stem:
 
 ```text
-/home/teladi/.local/bin/wirtelprimpf-generate.py
-/home/teladi/.local/bin/wirtelprimpf-set-openai-key
-/home/teladi/.config/wirtelprimpf/openai.env
-/home/teladi/.config/systemd/user/wirtelprimpf.service
-/home/teladi/.config/systemd/user/wirtelprimpf.timer
-/home/teladi/.local/share/wirtelprimpf/github/Katzenbilder
+wirtelprimpf_YYYY-MM-DD_HH-MM-SS.png
+wirtelprimpf_YYYY-MM-DD_HH-MM-SS.txt
 ```
 
-## Zielordner
+The generator source, installation notes, environment variables, and optional
+systemd user timer templates live in:
 
 ```text
-Lokal:  /home/teladi/Hintergrundbilder
-GitHub: Wirtelprimpf/
+Sourcecode/
 ```
 
-## API-Key
-
-Der OpenAI API-Key liegt nicht im Repository. Er wird lokal in
-`~/.config/wirtelprimpf/openai.env` gespeichert. Die Datei ist mit `0600`
-geschuetzt und wird vom User-Service als `EnvironmentFile` gelesen.
-
-Der Key muss Bildgenerierung erlauben. Bei einem eingeschraenkten OpenAI-Key
-braucht er mindestens den Scope:
-
-```text
-api.model.images.request
-```
-
-Key neu setzen:
-
-```bash
-~/.local/bin/wirtelprimpf-set-openai-key
-```
-
-## Manuell Starten
-
-```bash
-systemctl --user start wirtelprimpf.service
-```
-
-Logs ansehen:
-
-```bash
-journalctl --user -u wirtelprimpf.service -n 100 --no-pager
-```
-
-Timer pruefen:
-
-```bash
-systemctl --user status wirtelprimpf.timer --no-pager
-```
+No OpenAI API key or local machine-specific configuration is stored in this
+repository.
