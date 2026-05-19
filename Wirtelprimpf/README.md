@@ -38,6 +38,13 @@ Der OpenAI API-Key liegt nicht im Repository. Er wird lokal in
 `~/.config/wirtelprimpf/openai.env` gespeichert. Die Datei ist mit `0600`
 geschuetzt und wird vom User-Service als `EnvironmentFile` gelesen.
 
+Der Key muss Bildgenerierung erlauben. Bei einem eingeschraenkten OpenAI-Key
+braucht er mindestens den Scope:
+
+```text
+api.model.images.request
+```
+
 Key neu setzen:
 
 ```bash
