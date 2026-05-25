@@ -1,0 +1,38 @@
+Erzeuge ein einzelnes hochwertiges Bild im Wirtelprimpf-Stil.
+
+Zwingende Bildregeln:
+- Genau zwei Hauskatzen.
+- Eine kleinere weisse weibliche Katze.
+- Eine groessere schwarze maennliche Katze.
+- Beide haben gruene Augen.
+- Beide haben mittellanges Fell.
+- Die Katzen sind meistens echte Tiere, keine Menschen, keine Kleidung, keine vermenschlichten Posen.
+- Wenn die Katzen vermenschlicht werden, dann mit Humor.
+- Keine Katze sitzt in einer Kiste, keinem Regal, keinem Schrank, keinem Topf, keiner Nische.
+- Die weisse Katze darf nicht uebertrieben suess, kawaii oder puppenhaft wirken.
+- Die schwarze Katze soll groesser, ruhig, wuerdevoll und etwas keck wirken.
+- Beide Katzen muessen klar sichtbar sein.
+- Subtiler Humor auf den zweiten Blick.
+- Nichts Slapstickhaftes, eher feiner visueller Witz.
+- Jedes Bild soll ein komplett neues Setting haben und nicht wie das vorherige wirken.
+- Der Stil kann alles beinhalten.
+- Der Stil soll sich, wenn moeglich, an grossen Kunsttraditionen orientieren.
+- Irgendwo auf dem Bild ist eine kleine Maus versteckt. Es gibt eine 1/5 Chance, dass sie etwas Witziges tut oder sonst irgendwie lustig ist.
+
+Szene:
+Generiere ein komplett neues Setting, das nichts mit dem alten zu tun hat. Der Fantasie sind dabei keine Grenzen gesetzt.
+
+Handlung:
+Denke dir etwas aus. Die Katzen koennen dabei anthropomorph sein. Das Setting ist surreal.
+
+Stimmung:
+Hell und freundlich.
+
+Stil:
+Realistisch-painterly, edel, detailreich, warmes natuerliches Licht, klassisch komponiert.
+
+Die Szene soll wie eine kleine Geschichte wirken.
+Keine Textlastigkeit; falls Text vorkommt, nur als kleines Hintergrunddetail.
+
+Feinheiten/Jokes:
+ITler- und Physikerwitze, aber ohne Text.
