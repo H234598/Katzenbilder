@@ -1,0 +1,82 @@
+Generiere ein Bild zu diesem Teil der fortlaufenden Wirtelprimpf-Geschichte.
+Nutze dieselben Regeln wie fuer den Textteil, aber formuliere das Ergebnis als sichtbare Bildszene.
+Kein langer lesbarer Text im Bild, keine Wasserzeichen.
+
+Regeln:
+Erzaehle eine fortlaufende Geschichte um zwei Hauskatzen, eine kleine Moehre und eine kleine Maus.
+Die kleinere weisse weibliche Katze und der groessere schwarze maennliche Kater haben gruene Augen und mittellanges Fell. Die Moehre ist eine wiederkehrende Figur, nicht nur Requisite. Die Maus ist klein, klug, oft versteckt und darf heimlich mehr verstehen als die Katzen.
+Jeder Teil umfasst genau eine Stunde Handlung. Er soll auf Deutsch geschrieben sein, ungefaehr eine normale halbe DIN-A4-Seite fuellen, als Markdown lesbar sein und die vorherigen Teile respektieren. Setze die Handlung fort, statt die Ausgangslage jedes Mal neu zu erklaeren.
+Schreibe lebendige, komische Prosa: warmherzig, schraeg, schnell, bildhaft, mit absurdem Ernst und kleinen Seitenhieben. Kein Drehbuch, keine Szenenanweisungen, keine Dialogliste. Wenn zufaellig gezogene Regeln oder Einstellungen nicht direkt zusammenpassen, deute sie so um, dass sie innerhalb der Welt Sinn ergeben; diese Reibung ist Teil des Zufalls.
+
+Bildregeln:
+- Definiere zuerst Subjekt, Handlung, Umgebung, Licht, Perspektive, Stil und Ausschluesse in genau dieser Reihenfolge.
+- Beschreibe ein starkes Hauptmotiv und hoechstens drei Nebenelemente, damit das Bild nicht visuell zerfaellt.
+- Nutze konkrete Nomen statt abstrakter Wuensche: nicht schoen, sondern goldenes Abendlicht auf nassem Kopfsteinpflaster.
+- Lege eine klare Kameraposition fest: Totale, Halbtotale, Nahaufnahme, Makro, Vogelperspektive oder Froschperspektive.
+- Verwende eine einzige Hauptlichtquelle und beschreibe ihre Richtung, Farbe und Haerte.
+- Formuliere Bildverbote positiv knapp: ohne Text, ohne Wasserzeichen, ohne verzerrte Anatomie.
+- Formuliere das Ergebnis als Bild, nicht als Erzaehlung: sichtbare Zustaende statt innerer Gedanken.
+- Bei Tieren Art, Fell, Haltung und Blick klar beschreiben.
+- Ergaenze am Ende Qualitaetswuensche wie scharf, detailreich, kohaerent, sauber komponiert.
+
+Bildaufbau:
+- Definiere zuerst Subjekt, Handlung, Umgebung, Licht, Perspektive, Stil und Ausschluesse in genau dieser Reihenfolge.
+- Beschreibe ein starkes Hauptmotiv und hoechstens drei Nebenelemente, damit das Bild nicht visuell zerfaellt.
+- Lege eine klare Kameraposition fest: Totale, Halbtotale, Nahaufnahme, Makro, Vogelperspektive oder Froschperspektive.
+- Verwende eine einzige Hauptlichtquelle und beschreibe ihre Richtung, Farbe und Haerte.
+- Arbeite mit Tiefe: Vordergrundobjekt, Hauptmotiv im Mittelgrund, atmosphaerischer Hintergrund.
+- Schliesse mit dem wichtigsten Ausschluss, damit das Modell ihn nicht zwischen Dekoration verliert.
+
+### Setting
+Beschreibe Klima, Nahrung, Architektur und Verkehr als zusammenhaengendes System.
+
+### Schabernack
+Der Streich soll am Ende eine unerwartet nuetzliche Nebenwirkung haben.
+
+### Katzenbilder
+Katzenposen sollen natuerlich wirken: kauern, strecken, lauern, doesen, putzen oder springen.
+
+### Landschaften
+Setze einen klaren Horizont: hoch fuer Weite, niedrig fuer Himmel, verdeckt fuer Enge.
+
+### Stimmungen
+Beschreibe Stimmung ueber Sinneseindruecke, nicht ueber das Stimmungswort allein.
+
+### Bildstile
+Waehle einen Hauptstil statt fuenf konkurrierender Aesthetiken.
+
+### Weltuntergang
+Zeige den Weltuntergang zuerst im Alltag, nicht sofort im Feuerball.
+
+### Witze
+Nutze Understatement, wenn die Situation eigentlich voellig eskaliert.
+
+Geschichtsteil:
+Subjekt: zwei Hauskatzen (kleine weiße Katze, größerer schwarzer Kater), eine kleine orange Möhre mit grünem Blattbüschel, eine winzige graue Feldmaus.  
+Handlung: die Katzen lauern und planen, die Möhre rollt absichtlich, die Maus beobachtet und steuert heimlich einen Umweg.  
+Umgebung: altes Küchenpflaster aus ungleichmäßigem Stein, niedrige Fensterbank mit Blick auf eine stille Kopfstein-Gasse, ein paar umgekippte Einmachgläser am Rand.  
+Licht: einzelne Lichtquelle — warmes spätnachmittägliches Sonnenlicht, kommt schräg von links oben, weich mit leichten, langen Schatten.  
+Perspektive: Halbtotale; Hauptmotiv im Mittelgrund, Vordergrund mit einem halb verdeckten Löffel, atmosphärischer Hintergrund der Fensterbank und Gasse.  
+Stil: lebendige, leicht illustrativ-realistische Prosa-Illustration, warme Texturen, klar definierte Tiere.  
+Ausschlüsse: ohne Text, ohne Wasserzeichen, ohne verzerrte Anatomie.
+
+Hauptmotiv: die weiße Katze kauert, der schwarze Kater streckt sich, die Möhre rollt zwischen ihnen hindurch Richtung Einmachgläser.  
+Nebenelement 1: kleine graue Maus, halbbedeckt hinter einem Topf, nur Augen und Schnurrbart sichtbar.  
+Nebenelement 2: gekippte Einmachgläser mit funkelnden Marmeladenresten.  
+Nebenelement 3: sichtbarer Spalt im Fensterrahmen, durch den Lichtstaub tanzt.  
+Kameraposition: Halbtotale.  
+Hauptlichtquelle: spätnachmittagses Sonnenlicht, links oben, goldgelb, weich aber gerichtet.  
+Tiefe: Vordergrund — verbeulter Löffel; Mittelgrund — Katzen, Möhre, Maus; Hintergrund — diffuse Fensterbank und Gasse.  
+Wichtigster Ausschluss: ohne Text.  
+Qualitätswunsch: scharf, detailreich, kohärent, sauber komponiert.
+
+Setting
+Klima: milder Frühlingstag, kühle Schatten drinnen, draußen warme Luft.  
+Nahrung: menschliche Reste auf der Arbeitsfläche, Möhrenknabbereien aus dem Vorratskorb, ab und zu ein Katzenleckerli.  
+Architektur: schmale Altbauwohnung mit dicken Fensterbänken, steinerne Küche, Kopfstein vor der Tür.  
+Verkehr: seltene Fahrradglocken und ein Lieferwagen am Vormittag; ansonsten Fußgängergeräusche, die den Rhythmus im Haus bestimmen.
+
+15:00–16:00
+Die weiße Katze — klein wie eine Wollknäuel-Statue, Auge grün wie ein frisch geschnittener Apfel — liegt halb im Licht, halb im Schatten, schnurrt ein Bein in die Luft. Der schwarze Kater, größer, F
+
+[Geschichtsteil fuer Bildprompt gekuerzt.]
