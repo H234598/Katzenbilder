@@ -1,0 +1,99 @@
+Erzeuge ein einzelnes hochwertiges Bild im Wirtelprimpf-Stil.
+Die Szene soll wie eine kleine Geschichte wirken. Keine Textlastigkeit; falls Text vorkommt, nur als kleines Hintergrunddetail. Subtiler Humor auf den zweiten Blick ist erwuenscht.
+Wenn gezogene Regeln oder Einstellungen nicht direkt zusammenpassen, deute sie sinnvoll um, statt sie wortwoertlich kollidieren zu lassen. Diese Reibung ist Teil des Zufalls.
+
+Zwingende Bildregeln:
+- Genau zwei Hauskatzen.
+- Eine kleinere weisse weibliche Katze.
+- Eine etwas groessere schwarze maennliche Katze.
+- Beide haben gruene Augen.
+- Beide haben mittellanges Fell.
+- Die Katzen sind meistens echte Tiere, keine Menschen, keine Kleidung, keine vermenschlichten Posen.
+- Wenn die Katzen vermenschlicht werden, dann mit Humor.
+- Keine Katze sitzt in einer Kiste, keinem Regal, keinem Schrank, keinem Topf, keiner Nische.
+- Die weisse Katze darf nicht uebertrieben suess, kawaii oder puppenhaft wirken.
+- Die weisse Katze soll ruhig, wuerdevoll und etwas keck wirken. In Gefahr,ist sie die mutigere.
+- Die schwarze Katze soll groesser, unaufmerksamer und lauter, sowie minimal ungeschickter wirken.
+- Beide Katzen zeigen Mut wenn es drauf an kommt.
+- Beide Katzen muessen klar sichtbar sein.
+- Irgendwo auf dem Bild ist eine kleine Maus versteckt.
+
+Bildaufbau fix:
+- Definiere zuerst Subjekt, Handlung, Umgebung, Licht, Perspektive, Stil und Ausschluesse in genau dieser Reihenfolge.
+- Beschreibe ein starkes Hauptmotiv und hoechstens drei Nebenelemente, damit das Bild nicht visuell zerfaellt.
+- Lege eine klare Kameraposition fest: Totale, Halbtotale, Nahaufnahme, Makro, Vogelperspektive oder Froschperspektive.
+- Verwende eine einzige Hauptlichtquelle und beschreibe ihre Richtung, Farbe und Haerte.
+- Arbeite mit Tiefe: Vordergrundobjekt, Hauptmotiv im Mittelgrund, atmosphaerischer Hintergrund.
+- Schliesse mit dem wichtigsten Ausschluss, damit das Modell ihn nicht zwischen Dekoration verliert.
+
+Settings fix:
+- Generiere ein komplett neues Setting, das nichts mit dem alten zu tun hat. Der Fantasie sind dabei keine Grenzen gesetzt.
+- Beginne mit Ort, Epoche, gesellschaftlicher Ordnung, Technologiegrad und zentralem Konflikt.
+- Beschreibe das Alltaegliche zuerst, dann das Wunderliche, damit das Setting glaubwuerdig atmet.
+- Formuliere das Setting so, dass sofort eine Szene darin beginnen koennte.
+- Beende mit einer offenen Spannung, nicht mit einer fertigen Enzyklopaedie.
+
+Ausgewaehlte Kategorien:
+
+Bildaufbau Dynamisch:
+- Gib dem Bild eine plausible Physik, außer Surrealismus ist ausdrücklich Teil der Idee.
+
+Settings Dynamisch:
+- Baue eine lokale Redensart ein, die Weltgefühl ohne Infodump vermittelt.
+
+Handlungen:
+- Denk dir aus, was die beiden machen. Es ist katzenhaft komisch, aber nicht alltaeglich.
+
+Schabernack:
+- Der Unfug soll klein beginnen und sozial riesig werden.
+
+Jokes:
+- Setze Alltagsfrust ein, aber gib ihm eine surreale Krone.
+
+Bürokratiewitze:
+- Baue eine Dienstanweisung ein, die nur mit Sondergenehmigung gelesen werden darf.
+
+Physikwitze:
+- Vermeide Gleichungen, außer die Gleichung selbst ist die Pointe.
+
+IT-Witze:
+- Ein Datenbankwitz darf langsam beginnen und mit Lock eskalieren.
+
+IT-Bilder:
+- Baue visuelle Metaphern ein: Firewall als Schleuse, Sandbox als Glaswürfel, Cache als vergessene Schublade.
+
+Katzenbilder:
+- Eine Katzenpose soll natürlich wirken: kauern, strecken, lauern, dösen, putzen oder springen.
+
+Landschaftsbilder:
+- Ein gutes Landschaftsbild braucht einen Rhythmus aus Formen.
+
+Stimmungen:
+- Surreale Stimmung braucht klare Details in unmöglicher Kombination.
+
+Bildstile:
+- Fotorealismus fordere plausible Optik, Linse, Licht, Material und natürliche Details.
+
+Bildstimmungen:
+- Märchenstimmung, nutze schimmernde Kanten, dichten Wald, warme Dunkelheit und Symbolobjekte.
+
+Infograficals:
+- Bei Zeitachsen markiere Brüche, Wendepunkte und Dauer.
+
+Motivationals:
+- Verknüpfe Mut mit Angst, nicht mit Angstfreiheit.
+
+Demotivationals:
+- Verwandle Fortschritt in Kreisverkehr.
+
+Top-Demotivationals:
+- Nutze Bildmotive, die objektiv schön und subjektiv vernichtend sind.
+
+Weltuntergang:
+- Nutze stille Zeichen: leere Bahnhöfe, flackernde Anzeigen, Tiere in Innenstädten.
+
+Dichten:
+- Setze Klang bewusst ein: harte Konsonanten für Druck, weiche Laute für Nähe.
+
+Spielen:
+- Ein gutes Tutorial lässt Spieler handeln, bevor es alles erklärt.
