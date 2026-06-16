@@ -1,0 +1,99 @@
+Erzeuge ein einzelnes hochwertiges Bild im Wirtelprimpf-Stil.
+Die Szene soll wie eine kleine Geschichte wirken. Keine Textlastigkeit; falls Text vorkommt, nur als kleines Hintergrunddetail. Subtiler Humor auf den zweiten Blick ist erwuenscht.
+Wenn gezogene Regeln oder Einstellungen nicht direkt zusammenpassen, deute sie sinnvoll um, statt sie wortwoertlich kollidieren zu lassen. Diese Reibung ist Teil des Zufalls.
+
+Zwingende Bildregeln:
+- Genau zwei Hauskatzen.
+- Eine kleinere weisse weibliche Katze.
+- Eine etwas groessere schwarze maennliche Katze.
+- Beide haben gruene Augen.
+- Beide haben mittellanges Fell.
+- Die Katzen sind meistens echte Tiere, keine Menschen, keine Kleidung, keine vermenschlichten Posen.
+- Wenn die Katzen vermenschlicht werden, dann mit Humor.
+- Keine Katze sitzt in einer Kiste, keinem Regal, keinem Schrank, keinem Topf, keiner Nische.
+- Die weisse Katze darf nicht uebertrieben suess, kawaii oder puppenhaft wirken.
+- Die weisse Katze soll ruhig, wuerdevoll und etwas keck wirken. Sie ist die mutigere.
+- Die schwarze Katze soll groesser, unaufmerksamer und lauter, sowie minimal ungeschickter wirken. Er ist eher der Schisser.
+- Beide Katzen zeigen Mut wenn es drauf an kommt.
+- Beide Katzen muessen klar sichtbar sein.
+- Irgendwo auf dem Bild ist eine kleine Maus versteckt.
+
+Bildaufbau fix:
+- Definiere zuerst Subjekt, Handlung, Umgebung, Licht, Perspektive, Stil und Ausschluesse in genau dieser Reihenfolge.
+- Beschreibe ein starkes Hauptmotiv und hoechstens drei Nebenelemente, damit das Bild nicht visuell zerfaellt.
+- Lege eine klare Kameraposition fest: Totale, Halbtotale, Nahaufnahme, Makro, Vogelperspektive oder Froschperspektive.
+- Verwende eine einzige Hauptlichtquelle und beschreibe ihre Richtung, Farbe und Haerte.
+- Arbeite mit Tiefe: Vordergrundobjekt, Hauptmotiv im Mittelgrund, atmosphaerischer Hintergrund.
+- Schliesse mit dem wichtigsten Ausschluss, damit das Modell ihn nicht zwischen Dekoration verliert.
+
+Settings fix:
+- Generiere ein komplett neues Setting, das nichts mit dem alten zu tun hat. Der Fantasie sind dabei keine Grenzen gesetzt.
+- Beginne mit Ort, Epoche, gesellschaftlicher Ordnung, Technologiegrad und zentralem Konflikt.
+- Beschreibe das Alltaegliche zuerst, dann das Wunderliche, damit das Setting glaubwuerdig atmet.
+- Formuliere das Setting so, dass sofort eine Szene darin beginnen koennte.
+- Beende mit einer offenen Spannung, nicht mit einer fertigen Enzyklopaedie.
+
+Ausgewaehlte Kategorien:
+
+Bildaufbau Dynamisch:
+- Beschreibe ein starkes Hauptmotiv und höchstens drei Nebenelemente, damit das Bild nicht visuell zerfällt.
+
+Settings Dynamisch:
+- Entwirf eine Grenze: Mauer, Meer, Wüste, Gesetz, Tabu oder magische Barriere.
+
+Handlungen:
+- Die beiden Katzen machen typischen Cyberpunkkram.
+
+Schabernack:
+- Nutze altetümliche Wörter für moderne Albernheit.
+
+Jokes:
+- Verwechsle Kategorien bewusst: Bürokratie wie Naturkatastrophe, Liebe wie Softwareupdate.
+
+Bürokratiewitze:
+- Setze die Pointe in einen Nebensatz, der wie Amtsdeutsch klingt.
+
+Physikwitze:
+- Ein Physikwitz endet gern mit einer Einheit, die niemand erwartet.
+
+IT-Witze:
+- Verwandle menschliche Kommunikation in API-Verträge.
+
+IT-Bilder:
+- Verwende Farbcodes sinnvoll: Warnung, Normalbetrieb, kritischer Zustand, isolierte Zone.
+
+Katzenbilder:
+- Ein gutes Katzenbild hat Würde, auch wenn es Quatsch zeigt.
+
+Landschaftsbilder:
+- Ein Sturm wirkt stärker, wenn ein stabiles Element ihm trotzt.
+
+Stimmungen:
+- Melancholie wirkt stärker mit Schönheit als mit bloßer Dunkelheit.
+
+Bildstile:
+- Kinderbuchstil nutze weiche Formen, warme Farben und erzählerische Details.
+
+Bildstimmungen:
+- Armageddon.
+
+Infograficals:
+- Ein Icon-Set muss stilistisch und semantisch konsistent sein.
+
+Motivationals:
+- Halte den Fokus auf Handlung, Haltung und nächste Minute.
+
+Demotivationals:
+- Schreibe fatalistisch, aber nicht menschenverachtend.
+
+Top-Demotivationals:
+- Der Satz soll zitierfähig und leicht unverschämt sein.
+
+Weltuntergang:
+- Zeige nicht nur Zerstörung, sondern auch Anpassung.
+
+Dichten:
+- Ein Gedicht über Verlust braucht nicht das Wort Verlust.
+
+Spielen:
+- Das Thema soll Regeln erklären, nicht nur auf die Schachtel gemalt sein.
