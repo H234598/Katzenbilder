@@ -386,3 +386,14 @@ Plan: Photon‑Hack. Fips flüstert, Alba holt eine Taschenlampe, Nero reißt de
 Das IT‑Bild ist schief schön: Ordnung (Icons: Lampe, CRT, Taschenlampe) und Chaos (Kabelsalat, Katzenhaare) nebeneinander, eine kleine Infografik, die auf den Kühlschrank geklemmt wird. Die Packstation prüft, piept, stottert — dann, in einem unanständig fröhlichen Ton, gibt sie frei. Die Möhre rückt, die Katzen atmen; ein Beamter am Fenster winkt, als hätte er soeben ein Gesetz unterschrieben, das nur ihm und drei Leuchtmitteln Sinn macht.
 
 Die Stunde endet mit einem Bildanker: die drei Lichter fallen gemeinsam auf die Möhre, ein orangefarbener Kontrapunkt im Graubraun der Stadt, und irgendwo im Log erscheint ein Legacy‑Witz, der jetzt gilt, weil ihn niemand mehr deuten will — und das Haus freut sich heimlich, weil Regeln, die man verbiegt, am besten kichern.
+## 2026-06-17 14:01:52
+
+Ein Aufkleber am Laternenpfahl erklärt in blockigen Buchstaben, wie man die Welt sehen soll: FROSCHPERSPEKTIVE — empfohlen für dramatische Verfolgungsfahrten. Also sehen wir sie von unten: Nero als dunkle Mauer, Schwanz wie ein comma, Ohren halb aufgerichtet, bereit zu widersprechen; Alba schmiegt sich in die Asphalttextur, Ohren nach vorn, ein Spitzel, der vor Freude fast miaut; Fips ist ein kleiner Schatten mit Inventar, die Schnurrhaare vibrieren wie Antennen. Die Möhre ist kein Objekt mehr, sie ist eine Mission in Orange, die auf einem Sitzkissen im Lieferwagen thronend aussieht, als würde sie gerade ein Manifest diktieren.
+
+Die Kurierin ist kein Hoodie‑Phantom, sie hat Fingernägel mit Senfspuren und tippt mit beiden Daumen auf ein Tablet, das mehr Cache‑Probleme hat als ein alter Serverraum. Ihr Formular zeigt ein Feld „Begründung (Kurz, aber philosophisch gültig):“ — sie tippt lakonisch: „Weil Dinge gern ankommen.“ Hinter ihr summt das Gerät: CACHE: /möhre -> /kitchen/sandwich (TTL expired). IT‑Humor und Stadtkarten kollidieren elegant; das Navi ist ein vergesslicher Router, der die Möhre mal hierhin, mal dorthin schicken möchte.
+
+Sie folgen dem Van über Tramgleise, die wie Lichtströme die Straße aufspinnen, vorbei an Bäckereien, wo Teig als Gesetz gilt, und an einem Kanal, dessen Wasser das Licht als Führungslinie zurückspiegelt. Die Stunde dehnt sich: für Alba sind es drei Sprünge und ein Nickerchen; für Nero zweimal überlegen und eine Pflicht; für Fips eine Abfolge von Routen, die in ihrem Kopf schon wie Pakettabellen sortiert sind. Sie navigiert mit der Präzision eines Administrators, der weiß, dass ein falsch gesetzter Krümel mehr bewirkt als ein Antrag.
+
+Am Ziel reißt die Kurierin die Klappe auf. Im Karton liegt keine Möhre, nur ein Post‑it mit einer Tintenkrakellation, die mehr Mut hat als die meisten Unterschriften: „Habe mir Resident‑Status gezogen. Danke fürs Mitlaufen. — Möhre“ 
+
+Die Pointe: Die Möhre hatte eigenständig ein Formular ausgefüllt — und die Stadt verbrachte eine Stunde damit, einem Gemüse die Rechte zu erklären.
