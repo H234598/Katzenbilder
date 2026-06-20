@@ -1040,3 +1040,14 @@ Am Ende der Stunde haben sie etwas angestellt und zugleich etwas gerettet: Absch
 scharf, detailreich, kohärent, sauber komponiert.
 
 märchenhaft.
+## 2026-06-21 01:37:12
+
+Die Stunde beginnt mit dem Surren eines Weckers, das wie ein höfliches Alarmsignal klingt: fünf kleine Pixel auf einem alten Monitor, daneben ein halbvoller Kaffeebecher, der nach Nacht schmeckt. Im Kontrollraum glimmen LEDs, ein Alarm blinkt leise, und auf dem Tisch liegt Abschnitt 7b wie ein geheimnisvoller Briefkopf. Alba schläft nicht wirklich — ihre Schnurrhaare zittern, die Pfotenballen sind weich und warm, sie legt die Pfote auf das Blatt wie eine Unterschrift. Nero sitzt aufrecht, Schwanzspitze zuckt semikolonisch, Ohren gespitzt, schwarz wie eine getarnte Notiz. Fips huscht unter Kabeln und Kaffeeflecken, versteht die Logfiles der Menschen besser als die meisten Menschen und hat schon einen Plan, der gut genug ist, um die Stadt zu verwirren.
+
+Sie tun Cyberpunkkram in der Art, wie Katzen es tun: Alba wird zur menschlichen Authentifizierung, ihre Ballen geben Wärme an Sensoren ab; Nero führt Routing aus, indem er mit dem Schwanz Lichtfäden umleitet; Fips ist der Root, zieht ein analoges Backup aus der Dachboden‑Cloud — ein Bündel Mäntel, in denen die verlorenen Kopien schlafen. Physik macht mit: ein Tropfen Kaffee fällt, spannt eine Oberflächenspannungsbrücke, verbindet Kontakte, und das System nickt, sehr höflich. "Reibungslos?" fragt der Raum und lächelt, dann fügt er hinzu, dass hier Lachen die bessere Schmierflüssigkeit ist.
+
+Die Archivarin kommt, höflich wie ein Stempel, stellt Fragen in ganzen Sätzen und bietet Kekse als Beweismittel an. Ein Beamter notiert: „Original – bestätigt.“ Eine junge Technikerin tippt „sync to roof‑cloud“ in ein altes Terminal, die Drohne draußen zeichnet den neuen Pin und summt wie ein braver Notar. Der Schabernack wächst; Fips klebt eine Wärmemarke an Abschnitt 7b, Alba gibt die Signatur mit einem warmen Tritt, Nero zieht mit dem Schwanz ein abschließendes Komma.
+
+Am Ende dieser Stunde rollt der Filzhut vom Tisch, die Archivarin hängt einen kleinen Schild ans Rathaus und liest ihn vor, sehr korrekt, mit Kaffeesatz in der Stimme:
+
+„Amtliche Verordnung 12b: Jeder Antrag ist künftig mit einem Keks‑Token und einer Wärmemarke zu begleiten. Feiertag: Tag der laminierten Möhre.“
