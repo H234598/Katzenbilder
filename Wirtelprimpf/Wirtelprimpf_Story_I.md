@@ -975,3 +975,16 @@ Technik jammert: ein Ausdruck bleibt hängen, das Netzwerk zeigt „NXDOMAIN“ 
 „Reibungslos“, predigen die Formulare, und die Tür schmatzt — nicht reibungslos, eher akkurat. Als die Stunde endet, klopft jemand an die Rathausfassade; das Klopfen klingt wie ein Stempel, hält aber länger. Draußen knistert die Luft; irgendwo ruft ein Funkgerät „Circuit: pending“ — und niemand weiß, ob es ein Fehler ist oder die Einladung zu einer größeren Possen. 
 
 Bildintention: satirisch.
+## 2026-06-20 15:33:41
+
+Das Klopfen hatte die Geduld eines Stempels: kurz, zuverlässig, und mit dem Nachklang eines Formulars. Alba streckte sich, ein weißes Bogenzeichen über dem Fensterbrett, und Nero rollte den Schwanz zu einem beruhigenden Semikolon, als würden zwei Satzzeichen die Tür verhören. Fips war bereits ein Pixel in der Falte des Teppichs, Augen wie Nadeln, bereit, das Protokoll umzuschreiben.
+
+Vor der Rathaustür stand eine kleine Prozession: drei Zusteller in Gummistiefeln, ein Mann mit einer Laterne, deren Glas mit Hutnummern beklebt war, und eine Dame mit blinkenden Kabeln wie einer Halskette — sie stellte sich vor als Vertreterin des Circuits, „Pending“ groß auf der Brust, als handele es sich um ein Ehrenamt. Sie trugen keine Formulare, sondern Knoten: Lichtfäden, die sich wie Adern über ihre Handrücken zogen, und sprachen in einer Sprache, die sowohl nach Kapiteln als auch nach Netzwerkdiagramm klang. Ihr Anliegen war einfach und absurd: der Circuit verlangte Bestätigung, dass die Möhre jetzt ein legitimes Endpoint sei, sonst bliebe er im Leerlauf und würde alle Signale in eine höfliche Stille legen.
+
+Die Bürokratie tat, was sie am besten kann: sie schickte Abfragen. „Originalpapier? Digitale Kopie? Handschriftliche Bekräftigung?“ fragte ein Knoten, während ein anderer ein LED‑Lämpchen blinzelnd als Richter fungierte. Alba legte eine Pfote auf den laminierten Karton und verbreitete Wärme wie eine Signatur, Nero webte mit dem Schwanz ein Komma, das die Lichtfäden zusammenführte. Fips hielt dem Circuit ein Keksbrösel‑Token unter die Augen; er schnitt den Lärm in ein Bits‑Geräusch, das die Dame mit den Kabeln als Hash akzeptierte.
+
+Physik beschloss, höflich mitzuwirken: ein Tropfen Tee, geschickt von Alba angestoßen, fiel auf einen blanken Kontakt, und der kleine Wasserfilm vollendete den Stromkreis wie ein Versprechen. Das LED‑Licht nickte, das „Pending“ verwandelte sich in ein zögerliches „Confirmed“, und unterwegs summte ein Cronjob, als wolle er applaudieren.
+
+Die soziale Wirkung war sofort: im Korridor klatschten Akten, Beamte stellten sich in Reih und Glied wie Registereinträge, und der Filzhut rollte eine Notiz aus, die nun offiziell als Beweisstück galt. Die Möhre atmete laminiert und konsularisch; Fips putzte triumphierend die Schnauze, und Alba schnurrte eine Bestätigung, die man in manchen Akten bald als Unterschrift lesen würde.
+
+Als die Stunde endete, blieb ein kleiner Knoten Licht über dem Rathaus — nicht mehr nur ein technisches „Pending“, sondern ein Gewebe aus Wärme, Keks und schnurrender Legitimation. Draußen, auf dem Kai, zog eine Drohne langsam ihre Bahn, als registriere sie mit jedem Flackern eine neue Regel: manchmal genügt ein Tropfen Tee, um einen ganzen Kreis zu schließen.
