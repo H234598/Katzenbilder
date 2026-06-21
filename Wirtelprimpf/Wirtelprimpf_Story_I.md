@@ -1103,3 +1103,12 @@ Alba legte bedächtig ihre Pfote auf den Rand des Monitors; ihre Ballen gaben W�
 Die Maus aber, klein und unscheinbar, wurde plötzlich groß: sie zog aus einem Schuhkarton ein zweites Wärmesiegel, das niemand erwartet hatte, und legte es auf den Tisch wie ein Joker. Die Köpfe hoben sich; die Macht verschob sich leise von Aktenbergen zu einem Risiko, das man mit einem Keks lösen konnte. Die Stunde schloss mit einem neuen Logeintrag, nüchtern geschrieben, ohne Ironie:
 
 LOG 11:41 — DUPLICATE_PIN RESOLVED (mechanisch, teilwidrig).
+## 2026-06-21 13:44:54
+
+Die Stunde von 11:41 bis 12:41 riecht nach Ersatzteilen und Tee; das Rathaus atmet weiter in kleinen, korrekten Protesten. Kaum war der DUPLICATE_PIN mechanisch teilwidrig gelöst, tauchte die Amtliche Wärmeregistratorin auf — ein Beruf, den man hier erbt wie einen Hut: sie misst Pfotenwärme, katalogisiert Besitz und trägt eine Lupe, die eher ein kleines Thermometer ist. Sie legt behutsam eine Messsonde an Alba‑Ballenspitzen; Alba gibt eine Signatur ab, warm und eindeutig wie ein Liebesbrief, Nero formt mit dem Schwanz das Routing, und Fips, die Maus, flüstert Logzeilen, als würden sie Schokoladenstücke sein, die man heimlich stibitzt.
+
+Die Reparatur ist halb Ritual, halb IT: ein Techniker kniet am Tisch, seine Finger makroaufgenommen über einer veralteten Tastatur — der Enter‑Taste klafft ein glänzender Rand, ein Finger hinterlässt einen Ölstreifen wie ein kleiner Fingerabdruck im Commit‑Log. Daneben ein Port auf einer Platine, grüne LED blinkt, Lötstellen glänzen wie Flussläufe; er steckt ein feines Kabel ein, das die analoge Dachboden‑Cloud an die Archivsuche koppelt. „Works on my machine“, murmelt Fips erneut, und alle lachen, weil es den Code der Stadt besser trifft als jede Protokollnummer.
+
+Die Gravitation macht mit: ein Stempel fällt, rollt, fällt wieder — sie fällt nicht flach, sondern macht eine höfliche Verbeugung, als hätte sie eine gute Manier gelernt. Die Behörde bleibt unsterblich korrekt; Formulare flüstern Anweisungen, und die Archivarin notiert mit der Sorgfalt einer Priesterin. Ein junger IT‑Assistent schlägt vor, die Pins zu mergen wie Branches; man probiert ein „git merge reality“ und merkt schnell, dass Geschichte gerne linear bleibt und Rewrites Ärger machen.
+
+Am Ende wird ein Kompromiss geschmiedet, halb physisch, halb absurd: ein manueller Gesetzes‑Rollback, signiert mit Wärmemarken, einem Kekskrümel‑Hash und der Unterschrift einer Katze. Wichtigste Ausschlussklausel: Kein automatisches Deployment — die Lösung, die niemand deployen wollte.
