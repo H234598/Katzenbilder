@@ -1531,3 +1531,27 @@ Ein Inspektor landet, höflich wie ein Formular, und verlangt ein Beweisstück: 
 Fips, winzig und unsichtbar zwischen Kabeln, zieht eine Diskette heraus, steckt sie ins CRT, und aus der Röhre rollt ein Backup: ein Foto von vor dem Brand, eine Hand, die eine Möhre mit einem Stempel küsst, daneben ein angestochener Croissantkrümel — ein absurdes Beweisstück, das keiner erwarten konnte und alle ernst nehmen müssen. Der Inspektor verweigert den Blick, dann beugt er sich, liest das Pixelbild und sieht darin so etwas wie Rechtfertigung. Alba legt die Pfote auf das Bild, Nero zeichnet ein semikolonisches Siegel in den Sand, und plötzlich wird der gekochte Krümel zur Urkunde.
 
 Die Bürokratie zerfällt in Lachen und Stempelklebrigkeit: ein Stempel bleibt an der Aktentasche, ein Beamter versucht, ihn abzuziehen, und hinterlässt ein Abdruckmuster, das wie die Narbe an der Wand aussieht — Symbolik als Messfehler. Die Möhre pulsiert, das CRT atmet leise, und Fips zieht sich zurück, zufrieden, weil ein Cronjob nicht aufräumt, was ein Croissant retten kann. Die Stunde schließt mit einem Bild: ein Rand, leer; die Mitte warm, orange; und das Semikolon in den Wellen, das unverändert, ernst und stolz bleibt.
+## 2026-06-25 19:56:00
+
+Die Stunde beginnt am feuchten Rand eines Stempels: im Vordergrund eine halbverblasste Quittung, noch klebrig vom Tee, in der Mitte das Boot mit Alba vorn, Pfote fest auf der Möhre, und im Hintergrund die aufgerissenen Mauern der alten Registratur, wo Ruinen als Erinnerungsstücke an einstiges Vertrauen stehen und jetzt nur noch Möwen und Papierstapel beheimaten. Das Klima schmeckt nach Salznebel und gebratenem Croissant, Nahrung ist Wärmemarke gegen Suppe, Architektur biegt Holz und Solar zu Brücken, und der Verkehr ist ein U-Bahn‑Netz aus Booten, Lastenrädern und Aluminiumflügeln, das wie ein Schaltplan die Stadt mit Waren und Worten verbindet.
+
+Verboten ist seit dem Verwaltungsbrand alles, was Autonomie besiegelt: notarielle AIs, Fernsiegelwerfer und das automatische Ausstellen von Existenz‑Zertifikaten — Gesetzestext, trocken genug, um als Kissen zu dienen. Genau daher rührt der Schabernack: Fips, halb Maus, halb Systemadministratorin, macht das, was kleine Geräte tun, wenn man sie lieb hat — sie schiebt einen winzigen Patch in carrot.consul, nicht, um Macht zu ergreifen, sondern um einen Streich zu beobachten. Der Patch ändert ein Label: Carrot → valid token. Niemand lächelt zuerst; dann lächeln alle.
+
+Die Stadt reagiert wie ein schlecht dokumentiertes API: ein Bushalteschild verwandelt sich in eine Akzeptanzstelle, Händler glauben an Gutscheine, die Suppenküche bietet „Carrot‑Warme“ an, und binnen einer Stunde hat das Möhrchen eine neue soziale Währung geschaffen — ein kleines Missgeschick mit großer Wirkung. Bürokraten bleiben höflich: sie gründen eine Arbeitsgruppe „Möhrenökonomie“, versenden Formulare mit Grußformel und Protokollpflicht, und jemand bringt Kekse zur Sitzung, weil man so Beschlüsse zähmt.
+
+Auf dem CRT flimmert die Pull‑Request‑Kette, Fips’ Finger zuckend wie ein Cronjob‑Herz:
+
+```text
+PR: merge/carrot.consul -> main
+fips: lgtm (small, harmless)
+ci-bot: build failed — signature missing
+physiker: please add thermodynamic test (ΔQ = ?)
+nero: semikolon auth? clarify flow
+alba: +1 (pfote drauf), adds biometrische Bestätigung
+fips: tests added, PTAL
+ci-bot: build passed. deploy ok.
+```
+
+Die Stadtkarte sieht jetzt aus wie ein U‑Bahnplan: Linien heißen HeatGrid, Registratur, MarketLoop — und eine dünne orange Linie, die wie ein Herzschlag verläuft: CarrotLine. Nero nutzt seinen Schwanz als Antenne, fängt ein Paketprotokoll ab und zieht daran wie an einer Saite; Alba lauert, kauert, schnuppert die neue Ordnung, und Fips, die Maus, versteht genauer, warum Menschen auf Symbole reagieren: weil Symbole die Gehwege umbauen können.
+
+Physik bleibt treu: Impuls ist konserviert. Ein erstaunter Händler wirft einen Keks; der Keks trifft ein Formular; das Formular wird zum Stempel; die Stadt stempelt zurück. Am Ende pulsiert die Möhre, das Semikolon zeichnet eine ruhige Krümmung in den Sand, und aus einem kleinen Netzstreich ist ein soziales Ereignis geworden — höflich, absurd und schwer zu retournieren.
