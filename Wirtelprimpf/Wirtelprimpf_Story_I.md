@@ -1623,3 +1623,23 @@ Der Schabernack beginnt mit Kuchenkrümeln. Ein Kind lässt eine Dose offen, und
 Ein Paar sprechender Hausschuhe unter einem Marktstand mahnt laut: „Bitte Abstand halten!“ — sie sind programmierte Erinnerer, doch heute nehmen die Leute die Vorschrift wörtlich. Ein Staubteilchen hält sich tatsächlich fern, driftet zögernd wie ein Partikel, das soziale Distanz buchstabiert; ein Verkäufer niest, als hätte die Physik Humor. Parallel dazu tritt ein Schild namens „Zutrittsverbot zur Warteschlange“ in Aktion und klappt, entgegen aller Intention, als Einladung: Leute stellen sich hin und beginnen, Stempel zu tauschen, weil Regeln hier gern ihr Gegenteil werden.
 
 Die Katzen reisen durch all das mit verschiedenen Rhythmen: Alba schnüffelt, rechnet mit Pfoten, markiert mit einer Geste; Nero liest Signale, hält Kurs, korrigiert die Strömung mit einem Schwanzhieb, als sei er eine Routing‑Tabelle. Fips findet im Markt‑Cache einen halbgeschriebenen Transfer: 0xFEEDBABE — unvollständig, heiß wie eine unreine Transaktion. Sie runzelt die Stirn, schiebt ein kleines Patch ins Ledger, aber die Zeile bleibt offen, flackernd wie ein Cursor. Die Stunde endet, als das Boot anlegt und die CarrotLine leise weiterpulsiert; auf dem Kai stehen Leute mit Keksen, Beamte mit Stempeln, und jemand flüstert das Wort „Auditing“ wie ein Gebet — während Fips schon einen neuen Eintrag vorbereitet. Die Spannung hängt in der Luft wie Wasserfarbe, noch nicht getrocknet.
+## 2026-06-26 10:04:31
+
+Aufkleber am Monitor, abgeblättert, aber mit klarer Schrift:
+Subjekt: Alba (weiß), Nero (schwarz), Fips (Maus), Möhre (warm).  
+Handlung: Routing, kleine Infiltration, höflicher Sabotage.  
+Umgebung: Marktkaimauer, CarrotLine an der Wasseroberfläche, Betonhalle.  
+Licht: Fensterlicht, orange Puls, CRT‑Glühen.  
+Perspektive: Bodennah, schnuppernd, halb im Kabel.  
+Stil: schnell, verschmitzt, ein Hauch Brutalismus.  
+Ausschlüsse: keine panischen Superhelden.
+
+Das Klima ist Salznebel plus Ofenduft; Nahrung wird als Wärmemarke gezählt, Suppe ist Bargeld, Kekse sind moralische Reserve. Architektur verknüpft Holzboote mit Betonhallen und Solarpaneelen wie Schaltkreise, der Verkehr ein geordnetes Chaos aus Booten, Lastenrädern und Menschen, die wie schlecht designte UIs agieren — alles Teil eines Systems, das Temperatur, Tausch und Takt vorgibt.
+
+Auf dem Markt pulsiert die CarrotLine sichtbar: eine dünne, orangene Welle, die Händlerkonten füttert. Ein neuer Beruf hat sich ergeben — der Carrotline‑Kurator, eine Person, die Routen von Wärme neu zeichnet und dabei Stempel statt SQL benutzt — heute ist er damit beschäftigt, höfliche Umleitungen zu genehmigen. Es wird beschlossen, dass eine Umleitung sinnvoll sei; es wird protokolliert, dass Kekse verteilt wurden.
+
+Alba springt auf einen Brotdispenser, legt die Pfote als biometrische Bestätigung auf das Sensorfeld — das Display friert ein, rotes Licht blinkt, die Kaffeetasse daneben ist leer. Nero windet den Schwanz um ein offenliegendes Kabel, fängt Paketprotokolle wie Fliegen; sein Schwanz ist Antenne, Spiegel und Beleidigter zugleich: die Pakete fühlen sich angefuchtelt, die Header hauchen zurück. Fips, halb in den Kabeln, halb mitten im Gedränge, schmeißt ein kleines Patch ins Ledger: ein höfliches if‑Statement, das Wärme von illegalen Bäckereien zu Suppenküchen umlenkt. Der Code wird deployt; das CI‑Bot‑UI flimmert, zeigt „build failed“ — dann, nach einem Muffin und einem Blick, „build passed“.
+
+Der größte Schabernack folgt dem leisesten Protokollfehler: eine Taube trägt eine gedruckte Quittung wie ein Reliquiar, ein Kind interpretiert das als neue Zahlungsmethode, und binnen Minuten wird in der Betonhalle des Marktes eine Tauschbörse eröffnet — man zahlt mit Lächeln und bekommt Suppe. Ein Quantenwitz bleibt vor der Messung unklar; erst nach dem ersten Löffel wird gelacht.
+
+Das Fell der Katzen fängt das Fensterlicht ein, sichtbar in jeder Faser, und draußen, zwischen Markt und Kai, piept ein Kassenscanner — das normale Geräusch, das die Stunde auf ihrer Achse hält.
