@@ -2378,3 +2378,14 @@ Als die Stunde verging, hatten sie das Protokoll geändert: nicht mit Gewalt, so
 > Handlungsimpuls: Tragt das gestempelte Wurzelzeug in die Kammer unter dem Turm; dort werden Geschichten zu Zertifikaten — und umgekehrt.
 
 Tja.
+## 2026-07-02 09:16:21
+
+Der Abgang durch das Tor fühlt sich an wie eine kleine Prozession: die Möhre in Albas Pfote wird zum Schlüssel, nicht weil sie passt, sondern weil man auf dem Archivturm gern Symbolik als Eintrittsberechtigung liest. Die Stufen zur Kammer sind niedriger, als der Turm vorgibt; ein winziger Mensch am Fuß wirkt noch winziger, das Tor darüber ist ein Maul; Alba wirkt wie eine Offizielle auf Stelzen, Nero ein Schmiedehammer aus Fell, Fips ein Auge, das alles durchliest.
+
+Unten riecht es nach altem Papier und warmem Öl. Horst, der Server, schnauft in einer Ecke wie ein betagter Ofen, seine Lüfter atmen Geschichten. An der Wand hängt die Karte der Wärmeflüsse — nicht als strenger Graph, sondern als Stadtkartographie: Flüsse aus Kupferrohren, Häfen, an denen Zertifikate anlegen, Pässe, die durch Nächte führen, und Grenzen, die mit Nietenzählerei gesichert sind. Wenn man die Karte wie einen Netzwerkplan liest, versteht man sofort, wo jemand sein Licht an- und ausmacht.
+
+Die Stunde wird zum Cyberpunk-Kniff: Alba drückt die Möhre aufs Lesepad, nicht mechanisch, sondern als kleines Ritual; Nero spannt sich über ein Relais, sein Körper schließt Schaltkreise auf eine Art, die keiner Normbeschreibung genügt — Wärme als Authentifizierung. Fips, klein, klug, flüstert in Horsts serielle Ohren: shebang: kindness.sh; echo "croissant_seal" | base64. Keine doktrinäre Gewalt, nur Mehl, Duft und ein Hash, der wie ein Kuss wirkt. Das Log akzeptiert das Falsche, weil es schön klingt.
+
+Währenddessen macht Bürokratie, was sie am besten kann: sie katalogisiert die Unordnung. Ein Aktenstempel rollt in einer Ecke, als wäre er ein hypnotisiertes Tier; seine Unnachgiebigkeit rettet ein Formular davor, sentimental zu werden. Doch die Formulare, die hier arbeiten, haben begonnen, Geschichten zu atmen; ein Feld füllt sich von selbst mit Tinte: „damit niemand allein friert.“ Alle protokollieren, korrekt und ein bisschen ratlos.
+
+Der Schabernack funktioniert wie immer: wie ein Unfall, aber verdächtig gut getimt — ein Relais klickt gerade dann, wenn Nero seufzt, Horst nickt, und die Kammer gibt Zertifikate frei, die statt Zahlen kleine Anekdoten tragen. Fips versteckt den Rest des Croissant‑Beweises in einem alten Zettel; Alba paradiert, die Möhre hungrig wie eine Plakette, und der winzige Mensch unten schaut hoch, als habe er gerade verstanden, dass Regeln auch Geschichten brauchen. Die Stunde endet mit einem leisen Piepen und einem neuen Eintrag im Log: STORIES_AS_TENDER — pending.
