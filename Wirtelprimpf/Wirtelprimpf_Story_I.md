@@ -2526,3 +2526,14 @@ Horst spuckt eine Meldung aus, höflich und brutal zugleich: „Wir bedauern, Ih
 Am Ende klebt ein neues Schild an der Archivtür, handgestempelt und etwas schief: Handlungsimpuls — noch einmal anfangen zählt (und stempeln Sie nie endgültig). Darunter, als letztes, klares Verbot, schwarz auf Orange, damit es nicht in Dekoration untergeht:
 
 Ausgeschlossen: endgültige Genehmigung.
+## 2026-07-03 23:25:00
+
+Die Stadt atmete noch, aber leiser; es war spät, fast zehn Uhr, und die Nacht lag wie ein dünner Schal über den Dächern. Alba hob die Möhre, als würde sie ein Navigationslicht einschalten — das Orange war ein Kompass, der nach Wärme zeigte. Nero stieg wie eine lebende Brücke über die Dachrinnen, Pfoten leicht verschwommen, als hätte jemand die Belichtungszeit verlängert: Bewegung, die nachhallt, Staubkörner fliegen wie winzige Satelliten. Fips saß am Rand eines Ziegeldaches, Mehl wie Tau auf dem Schnäuzchen, und blickte dorthin, wo die Stadt noch lauter Dinge vergaß — ins verbrannte Archiv, unter dem das Pilznetz webt.
+
+Sie reisten nicht mit Koffern, sondern mit Problemen: die Möhre war Angebot und Petition zugleich; Horst schielte in der Ferne, sein Rack blinkte wie ein entferntes Sternbild, „AUSGESCHLOSSEN“ summte noch aus einem Monitor. Nachrichten reisten diesmal nicht über Kabel oder Papier, sondern durch das Dunkel: Pilzsporen sendeten Lichtmorse, ein unterirdisches Botenwesen, das Geruch in Genehmigungen übersetzen konnte. Fips verstand Pilzsprache besser als mancher Beamte das Amtsdeutsch — sie schnupperte, zog eine winzige Linie im Staub, und das Mycelium antwortete mit einem leisen Leuchten.
+
+Am Fuße des Archivflügels war der Boden weich, als hätte jemand Paragraphen in Erde verwandelt. Die Pilze standen wie aufgereihte Notare, Kappen wie kleine Amtsstempel. Alba brachte die Möhre vor, Nero legte sich quer, um Wärme zu messen, und Fips trat vor, ein winziger Verhandler mit Croissantkrümel als Ausweis. Ein Formular aus Sporen löste sich vom Boden, faltete sich, beantragte sich selbst eine Verlängerung, unterschrieb mit einer Dosis Schimmelpilz, die beinahe höflich wirkte — Bürokratie in ihrem natürlichen Habitat.
+
+Das Pilznetz schlug vor: ein Tausch. Dauerhafte Wärme gegen ein endgültiges „Nein“ an der Tür. Nicht das, was sie wollten; nicht das, was das System meinte. Horst piepste präzise: er würde den Antrag als gültig markieren, wenn die Stadt „endgültig“ ablegte. Die Frage war jetzt weniger technisch als moralisch: darf ein Wort bleiben, wenn die Stadt sich verändern will?
+
+Unter dem Archiv pulste etwas, als würde ein altes Backup erwachen. Ein myzelialer Faden kroch tastend, eine kleine Lampe im Rack antwortete, rot und fordernd. Fips steckte den letzten Croissantkrümel wie eine Münze in das Netzwerk. Alba hielt die Möhre fester. Nero schnurrte, und die Nacht hielt den Atem an — nicht entschieden, nicht versichert, nur gespannt.
