@@ -26,12 +26,47 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:
-      - name: Repository auschecken
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          fetch-depth: 1
-          persist-credentials: false
-          ref: ${{ github.head_ref || github.ref_name }}
+      - name: Minimalen partiellen Checkout erstellen
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          TARGET_BRANCH: ${{ github.head_ref || github.ref_name }}
+        run: |
+          set -euo pipefail
+          worktree="$RUNNER_TEMP/wirtelprimpf-p00"
+          auth="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
+
+          git -c http.https://github.com/.extraheader="AUTHORIZATION: basic $auth" \
+            clone --filter=blob:none --no-checkout --depth=1 --single-branch \
+            --branch "$TARGET_BRANCH" \
+            "https://github.com/${GITHUB_REPOSITORY}.git" "$worktree"
+
+          cd "$worktree"
+          git sparse-checkout init --no-cone
+          cat > .git/info/sparse-checkout <<'EOF'
+          /.phase0-payload/
+          /.github/workflows/materialize-phase0.yml
+          /.gitignore
+          /Makefile
+          /PROVENANCE.md
+          /README.md
+          /config/architecture-decisions.json
+          /config/reference-revisions.json
+          /config/schemas/web-inventory.schema.json
+          /config/web-requirements.json
+          /docs/REVISIONSBASELINE.md
+          /docs/WEB-INVENTORY.md
+          /docs/adr/README.md
+          /docs/plans/WIRTELPRIMPF-WEBSEITE-IMPLEMENTIERUNGSPLAN.md
+          /docs/requirements/WIRTELPRIMPF-WEBSEITE.md
+          /scripts/validate_web_governance.py
+          /scripts/web_inventory.py
+          /tests/test_web_governance.py
+          /tests/test_web_inventory.py
+          EOF
+          git checkout "$TARGET_BRANCH"
+          test -d .phase0-payload
+          printf 'PHASE0_WORKTREE=%s\n' "$worktree" >> "$GITHUB_ENV"
 
       - name: Payload prüfen, materialisieren und validieren
         shell: bash
@@ -40,6 +75,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
+          cd "$PHASE0_WORKTREE"
           archive="$RUNNER_TEMP/wirtelprimpf-p00.tar.gz"
           cat .phase0-payload/payload.b64.part-* | base64 --decode > "$archive"
           printf '%s  %s\n' "$EXPECTED_ARCHIVE_SHA256" "$archive" | sha256sum --check --strict -
@@ -93,9 +129,6 @@ jobs:
                   target.write_bytes(source.read())
           PY
 
-          rm -rf -- .phase0-payload
-          rm -f -- .github/workflows/materialize-phase0.yml
-
           python3 tests/test_web_inventory.py
           python3 tests/test_web_governance.py
           python3 scripts/validate_web_governance.py --root .
@@ -104,9 +137,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- \
-            .gitignore Makefile PROVENANCE.md README.md config docs scripts tests \
-            .github/workflows/materialize-phase0.yml .phase0-payload
+            .gitignore Makefile PROVENANCE.md README.md config docs scripts tests
           git commit -m "feat(web): add P00 governance and inventory foundation"
+
           target_branch="${GITHUB_HEAD_REF:-$GITHUB_REF_NAME}"
-          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git push origin "HEAD:${target_branch}"
+          auth="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
+          git -c http.https://github.com/.extraheader="AUTHORIZATION: basic $auth" \
+            push origin "HEAD:${target_branch}"
