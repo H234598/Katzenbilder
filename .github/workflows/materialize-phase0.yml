@@ -7,6 +7,12 @@ on:
     paths:
       - ".phase0-payload/**"
       - ".github/workflows/materialize-phase0.yml"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - ".phase0-payload/**"
+      - ".github/workflows/materialize-phase0.yml"
 
 permissions:
   contents: write
@@ -25,6 +31,7 @@ jobs:
         with:
           fetch-depth: 1
           persist-credentials: false
+          ref: ${{ github.head_ref || github.ref_name }}
 
       - name: Payload prüfen, materialisieren und validieren
         shell: bash
@@ -100,5 +107,6 @@ jobs:
             .gitignore Makefile PROVENANCE.md README.md config docs scripts tests \
             .github/workflows/materialize-phase0.yml .phase0-payload
           git commit -m "feat(web): add P00 governance and inventory foundation"
+          target_branch="${GITHUB_HEAD_REF:-$GITHUB_REF_NAME}"
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+          git push origin "HEAD:${target_branch}"
