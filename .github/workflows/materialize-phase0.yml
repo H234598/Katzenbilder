@@ -1,0 +1,104 @@
+name: Materialize Wirtelprimpf P00 payload
+
+on:
+  push:
+    branches:
+      - agent/wirtelprimpf-web-p00-foundation
+    paths:
+      - ".phase0-payload/**"
+      - ".github/workflows/materialize-phase0.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: materialize-wirtelprimpf-p00
+  cancel-in-progress: false
+
+jobs:
+  materialize:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Payload prüfen, materialisieren und validieren
+        shell: bash
+        env:
+          EXPECTED_ARCHIVE_SHA256: 59b3df13c9a9c5cbd7f0953927f9ba72405b98962d59864cb38def40e5d51536
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/wirtelprimpf-p00.tar.gz"
+          cat .phase0-payload/payload.b64.part-* | base64 --decode > "$archive"
+          printf '%s  %s\n' "$EXPECTED_ARCHIVE_SHA256" "$archive" | sha256sum --check --strict -
+
+          python3 - "$archive" <<'PY'
+          from __future__ import annotations
+
+          import sys
+          import tarfile
+          from pathlib import Path, PurePosixPath
+
+          archive_path = Path(sys.argv[1])
+          root = Path.cwd().resolve()
+          allowed = {
+              ".gitignore",
+              "Makefile",
+              "PROVENANCE.md",
+              "README.md",
+              "config/architecture-decisions.json",
+              "config/reference-revisions.json",
+              "config/schemas/web-inventory.schema.json",
+              "config/web-requirements.json",
+              "docs/REVISIONSBASELINE.md",
+              "docs/WEB-INVENTORY.md",
+              "docs/adr/README.md",
+              "docs/plans/WIRTELPRIMPF-WEBSEITE-IMPLEMENTIERUNGSPLAN.md",
+              "docs/requirements/WIRTELPRIMPF-WEBSEITE.md",
+              "scripts/validate_web_governance.py",
+              "scripts/web_inventory.py",
+              "tests/test_web_governance.py",
+              "tests/test_web_inventory.py",
+          }
+          with tarfile.open(archive_path, "r:gz") as bundle:
+              members = bundle.getmembers()
+              names = {member.name.removeprefix("./") for member in members}
+              if names != allowed:
+                  missing = sorted(allowed - names)
+                  extra = sorted(names - allowed)
+                  raise SystemExit(f"payload path mismatch; missing={missing}; extra={extra}")
+              for member in members:
+                  name = member.name.removeprefix("./")
+                  path = PurePosixPath(name)
+                  if path.is_absolute() or ".." in path.parts or not member.isfile():
+                      raise SystemExit(f"unsafe payload member: {member.name}")
+                  target = (root / name).resolve()
+                  target.relative_to(root)
+                  source = bundle.extractfile(member)
+                  if source is None:
+                      raise SystemExit(f"payload member cannot be read: {member.name}")
+                  target.parent.mkdir(parents=True, exist_ok=True)
+                  target.write_bytes(source.read())
+          PY
+
+          rm -rf -- .phase0-payload
+          rm -f -- .github/workflows/materialize-phase0.yml
+
+          python3 tests/test_web_inventory.py
+          python3 tests/test_web_governance.py
+          python3 scripts/validate_web_governance.py --root .
+          git diff --check
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- \
+            .gitignore Makefile PROVENANCE.md README.md config docs scripts tests \
+            .github/workflows/materialize-phase0.yml .phase0-payload
+          git commit -m "feat(web): add P00 governance and inventory foundation"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
