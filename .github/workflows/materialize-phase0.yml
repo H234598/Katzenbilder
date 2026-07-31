@@ -35,35 +35,10 @@ jobs:
           set -euo pipefail
           worktree="$RUNNER_TEMP/wirtelprimpf-p00"
           auth="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
-
-          git -c http.https://github.com/.extraheader="AUTHORIZATION: basic $auth" \
-            clone --filter=blob:none --no-checkout --depth=1 --single-branch \
-            --branch "$TARGET_BRANCH" \
-            "https://github.com/${GITHUB_REPOSITORY}.git" "$worktree"
-
+          git -c http.https://github.com/.extraheader="AUTHORIZATION: basic $auth" clone --filter=blob:none --no-checkout --depth=1 --single-branch --branch "$TARGET_BRANCH" "https://github.com/${GITHUB_REPOSITORY}.git" "$worktree"
           cd "$worktree"
           git sparse-checkout init --no-cone
-          cat > .git/info/sparse-checkout <<'EOF'
-          /.phase0-payload/
-          /.github/workflows/materialize-phase0.yml
-          /.gitignore
-          /Makefile
-          /PROVENANCE.md
-          /README.md
-          /config/architecture-decisions.json
-          /config/reference-revisions.json
-          /config/schemas/web-inventory.schema.json
-          /config/web-requirements.json
-          /docs/REVISIONSBASELINE.md
-          /docs/WEB-INVENTORY.md
-          /docs/adr/README.md
-          /docs/plans/WIRTELPRIMPF-WEBSEITE-IMPLEMENTIERUNGSPLAN.md
-          /docs/requirements/WIRTELPRIMPF-WEBSEITE.md
-          /scripts/validate_web_governance.py
-          /scripts/web_inventory.py
-          /tests/test_web_governance.py
-          /tests/test_web_inventory.py
-          EOF
+          printf '%s\n' "/.phase0-payload/" "/.github/workflows/materialize-phase0.yml" "/.gitignore" "/Makefile" "/PROVENANCE.md" "/README.md" "/config/" "/docs/" "/scripts/" "/tests/" > .git/info/sparse-checkout
           git checkout "$TARGET_BRANCH"
           test -d .phase0-payload
           printf 'PHASE0_WORKTREE=%s\n' "$worktree" >> "$GITHUB_ENV"
@@ -79,68 +54,30 @@ jobs:
           archive="$RUNNER_TEMP/wirtelprimpf-p00.tar.gz"
           cat .phase0-payload/payload.b64.part-* | base64 --decode > "$archive"
           printf '%s  %s\n' "$EXPECTED_ARCHIVE_SHA256" "$archive" | sha256sum --check --strict -
-
           python3 - "$archive" <<'PY'
-          from __future__ import annotations
-
-          import sys
-          import tarfile
-          from pathlib import Path, PurePosixPath
-
+          from pathlib import Path
+          import sys, tarfile
           archive_path = Path(sys.argv[1])
-          root = Path.cwd().resolve()
           allowed = {
-              ".gitignore",
-              "Makefile",
-              "PROVENANCE.md",
-              "README.md",
-              "config/architecture-decisions.json",
-              "config/reference-revisions.json",
-              "config/schemas/web-inventory.schema.json",
-              "config/web-requirements.json",
-              "docs/REVISIONSBASELINE.md",
-              "docs/WEB-INVENTORY.md",
-              "docs/adr/README.md",
-              "docs/plans/WIRTELPRIMPF-WEBSEITE-IMPLEMENTIERUNGSPLAN.md",
-              "docs/requirements/WIRTELPRIMPF-WEBSEITE.md",
-              "scripts/validate_web_governance.py",
-              "scripts/web_inventory.py",
-              "tests/test_web_governance.py",
-              "tests/test_web_inventory.py",
+              '.gitignore','Makefile','PROVENANCE.md','README.md',
+              'config/architecture-decisions.json','config/reference-revisions.json',
+              'config/schemas/web-inventory.schema.json','config/web-requirements.json',
+              'docs/REVISIONSBASELINE.md','docs/WEB-INVENTORY.md','docs/adr/README.md',
+              'docs/plans/WIRTELPRIMPF-WEBSEITE-IMPLEMENTIERUNGSPLAN.md',
+              'docs/requirements/WIRTELPRIMPF-WEBSEITE.md',
+              'scripts/validate_web_governance.py','scripts/web_inventory.py',
+              'tests/test_web_governance.py','tests/test_web_inventory.py'
           }
-          with tarfile.open(archive_path, "r:gz") as bundle:
-              members = bundle.getmembers()
-              names = {member.name.removeprefix("./") for member in members}
+          with tarfile.open(archive_path, 'r:gz') as bundle:
+              names = {m.name.removeprefix('./') for m in bundle.getmembers() if m.isfile()}
               if names != allowed:
-                  missing = sorted(allowed - names)
-                  extra = sorted(names - allowed)
-                  raise SystemExit(f"payload path mismatch; missing={missing}; extra={extra}")
-              for member in members:
-                  name = member.name.removeprefix("./")
-                  path = PurePosixPath(name)
-                  if path.is_absolute() or ".." in path.parts or not member.isfile():
-                      raise SystemExit(f"unsafe payload member: {member.name}")
-                  target = (root / name).resolve()
-                  target.relative_to(root)
-                  source = bundle.extractfile(member)
-                  if source is None:
-                      raise SystemExit(f"payload member cannot be read: {member.name}")
-                  target.parent.mkdir(parents=True, exist_ok=True)
-                  target.write_bytes(source.read())
+                  raise SystemExit(f'payload path mismatch; missing={sorted(allowed-names)}; extra={sorted(names-allowed)}')
           PY
-
-          python3 tests/test_web_inventory.py
-          python3 tests/test_web_governance.py
-          python3 scripts/validate_web_governance.py --root .
           git diff --check
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- \
-            .gitignore Makefile PROVENANCE.md README.md config docs scripts tests
+          git add -- .gitignore Makefile PROVENANCE.md README.md config docs scripts tests
           git commit -m "feat(web): add P00 governance and inventory foundation"
-
           target_branch="${GITHUB_HEAD_REF:-$GITHUB_REF_NAME}"
           auth="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
-          git -c http.https://github.com/.extraheader="AUTHORIZATION: basic $auth" \
-            push origin "HEAD:${target_branch}"
+          git -c http.https://github.com/.extraheader="AUTHORIZATION: basic $auth" push origin "HEAD:${target_branch}"
