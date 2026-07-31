@@ -7,6 +7,7 @@ After=network-online.target
 Type=oneshot
 EnvironmentFile=%h/.config/wirtelprimpf/openai.env
 Environment=WIRTELPRIMPF_OPERANDI=story
+ExecStartPre=%h/.local/share/wirtelprimpf-venv/bin/python %h/.local/share/cinnamon/applets/wirtelprimfgenerator@H234598/story_directives_core.py apply --env-file %h/.config/wirtelprimpf/openai.env
 ExecStart=%h/.local/share/wirtelprimpf-venv/bin/python %h/.local/bin/wirtelprimpf_generator.py
 NoNewPrivileges=true
 PrivateTmp=true
