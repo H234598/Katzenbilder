@@ -1,0 +1,23 @@
+name: Publish Wirtelprimpf archive Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    uses: H234598/Wirtelprimpf-generator/.github/workflows/archive-pages.yml@7fb527470e3c9c3ec1afbe2b86d985b2ae7bca85
+    with:
+      archive_index: "1"
+      custom_domain: "wirtelprimpf-0001.telacore.org"
+      factory_ref: "7fb527470e3c9c3ec1afbe2b86d985b2ae7bca85"

@@ -1,22 +1,14 @@
-# Wirtelprimpf Images
+# Publikationsdaten
 
-This folder contains generated Wirtelprimpf images and the prompt text files
-that produced them.
+Dieser Ordner enthält die Story-Bände und zugehörigen Einzeltexte und Prompts
+des ersten Wirtelprimpf-Archivs. Band I ist vollständig; Band II ist die aktuell
+fortlaufende Geschichte.
 
-Each image is stored together with a `.txt` file using the same timestamped
-filename stem:
+Die Bilddateien werden in unveränderliche GitHub-Releases verlagert. Das
+Repositorywurzelmanifest `media-manifest.json` bindet jedes Original und seine
+Webderivate an öffentliche Download-URLs und SHA-256-Prüfsummen. Bis dieses
+Migrationsgate vollständig bestanden ist, verbleibt der historische Bildbestand
+zusätzlich in `main`.
 
-```text
-wirtelprimpf_YYYY-MM-DD_HH-MM-SS.png
-wirtelprimpf_YYYY-MM-DD_HH-MM-SS.txt
-```
-
-The generator source, installation notes, environment variables, and optional
-systemd user timer templates live in:
-
-```text
-Sourcecode/
-```
-
-No OpenAI API key or local machine-specific configuration is stored in this
-repository.
+Generator, Applet, lokale Einstellungen und systemd-Units befinden sich im
+separaten Repository `H234598/Wirtelprimpf-generator`.
