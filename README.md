@@ -8,9 +8,9 @@ die Bücher 1 bis 5. Je zehn vollständig abgeschlossene Storys bilden ein Buch.
 - Generator, Cinnamon-Applet und Seitenfabrik: <https://github.com/H234598/Wirtelprimpf-generator>
 
 `Wirtelprimpf/` enthält Storytexte, Einzelteile und die zugehörigen Prompts. Das
-versionierte `media-manifest.json` bindet 780 unveränderliche Originale und ihre
-Webderivate an fünf öffentliche GitHub Releases und vollständige
-SHA-256-Prüfsummen.
+versionierte `media-manifest.json` bindet sämtliche archivierten Originale und
+ihre Webderivate an fortlaufend nummerierte öffentliche GitHub Releases und
+vollständige SHA-256-Prüfsummen.
 
 Die Bestandsmigration ist abgeschlossen. Der aktuelle Baum bleibt absichtlich
 frei von Bilddateien; neue Bilder werden ebenfalls ausschließlich in Releases
