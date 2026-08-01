@@ -7,14 +7,15 @@ Publikationsarchiv für die globalen Wirtelprimpf-Story-Bände 1 bis 50.
 - Generator, Cinnamon-Applet und Seitenfabrik: <https://github.com/H234598/Wirtelprimpf-generator>
 
 `Wirtelprimpf/` enthält Storytexte, Einzelteile und die zugehörigen Prompts. Das
-versionierte `media-manifest.json` verweist nach abgeschlossener Migration auf
-unveränderliche, öffentlich SHA-256-verifizierte Originale und Webderivate in
-GitHub Releases.
+versionierte `media-manifest.json` bindet 779 unveränderliche Originale und ihre
+Webderivate an vier öffentliche GitHub Releases und vollständige
+SHA-256-Prüfsummen.
 
-Der historische Bildbestand bleibt bis zum vollständigen öffentlichen
-Download- und Prüfsummengate zusätzlich in `main`. Erst danach wird er durch
-einen normalen Commit entfernt. Die veröffentlichte Historie wird nicht
-umgeschrieben und es gibt keinen Force-Push.
+Die Bestandsmigration ist abgeschlossen. Der aktuelle Baum bleibt absichtlich
+frei von Bilddateien; neue Bilder werden ebenfalls ausschließlich in Releases
+veröffentlicht. Die frühere Git-Historie wurde nicht umgeschrieben, und es gab
+keinen Force-Push. Der vollständige Migrationsnachweis steht in
+[`docs/MEDIA-MIGRATION-0001.md`](docs/MEDIA-MIGRATION-0001.md).
 
 Ausführbarer Generator-, Applet-, Admin- und Webquellcode wird ausschließlich
 im separaten Generatorrepository gepflegt. Geheimnisse und lokale

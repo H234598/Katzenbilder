@@ -7,3 +7,17 @@ __pycache__/
 *.tmp
 /release-staging/
 /migration-work/
+
+# Binäre Publikationsmedien gehören ausschließlich in verifizierte Releases.
+/Wirtelprimpf/*.png
+/Wirtelprimpf/**/*.png
+/Wirtelprimpf/*.jpg
+/Wirtelprimpf/**/*.jpg
+/Wirtelprimpf/*.jpeg
+/Wirtelprimpf/**/*.jpeg
+/Wirtelprimpf/*.webp
+/Wirtelprimpf/**/*.webp
+/Wirtelprimpf/*.gif
+/Wirtelprimpf/**/*.gif
+/Wirtelprimpf/*.avif
+/Wirtelprimpf/**/*.avif
