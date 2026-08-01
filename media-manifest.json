@@ -1,7 +1,7 @@
 {
   "archive_index": 1,
   "archive_repository": "Wirtelprimpf-0001",
-  "generated_at": "2026-08-01T14:12:53Z",
+  "generated_at": "2026-08-01T16:13:17Z",
   "media": [
     {
       "asset_id": "archive-0001-d1f75722edaebfa8-10035cc1",
@@ -30698,9 +30698,54 @@
         }
       ],
       "width": 2560
+    },
+    {
+      "asset_id": "archive-0001-c7e58326e197dfa0-b5e4678a",
+      "byte_size": 5487239,
+      "height": 1440,
+      "kind": "story",
+      "mime_type": "image/png",
+      "original": {
+        "asset_name": "wirtelprimpf_2026-08-01_18-12-16-212984--c7e58326e197dfa0--b5e4678a.png",
+        "url": "https://github.com/H234598/Wirtelprimpf-0001/releases/download/archive-0001-media-0005/wirtelprimpf_2026-08-01_18-12-16-212984--c7e58326e197dfa0--b5e4678a.png"
+      },
+      "prompt_path": "Wirtelprimpf/wirtelprimpf_2026-08-01_18-12-16-212984.txt",
+      "record": {
+        "asset_name": "wirtelprimpf_2026-08-01_18-12-16-212984--c7e58326e197dfa0--b5e4678a.record.json",
+        "byte_size": 1878,
+        "sha256": "eb0a6a07d9890d8622c31b73ffbde76414d5d8ea97006c5f28a71e77fcfae185",
+        "url": "https://github.com/H234598/Wirtelprimpf-0001/releases/download/archive-0001-media-0005/wirtelprimpf_2026-08-01_18-12-16-212984--c7e58326e197dfa0--b5e4678a.record.json"
+      },
+      "release_tag": "archive-0001-media-0005",
+      "sha256": "c7e58326e197dfa03105be95d53dbe14500edcfda352c7fa271dc37c4cc35881",
+      "source_path": "Wirtelprimpf/wirtelprimpf_2026-08-01_18-12-16-212984.png",
+      "story_part_path": "Wirtelprimpf/wirtelprimpf_2026-08-01_18-12-16-212984.md",
+      "variants": [
+        {
+          "actual_height": 360,
+          "actual_width": 640,
+          "asset_name": "wirtelprimpf_2026-08-01_18-12-16-212984--c7e58326e197dfa0--b5e4678a.w640.webp",
+          "byte_size": 59612,
+          "mime_type": "image/webp",
+          "requested_width": 640,
+          "sha256": "45e618b53e25836d90c22b4eb1c60b8d64e4e0b72c81775083e5544692a09924",
+          "url": "https://github.com/H234598/Wirtelprimpf-0001/releases/download/archive-0001-media-0005/wirtelprimpf_2026-08-01_18-12-16-212984--c7e58326e197dfa0--b5e4678a.w640.webp"
+        },
+        {
+          "actual_height": 720,
+          "actual_width": 1280,
+          "asset_name": "wirtelprimpf_2026-08-01_18-12-16-212984--c7e58326e197dfa0--b5e4678a.w1280.webp",
+          "byte_size": 185926,
+          "mime_type": "image/webp",
+          "requested_width": 1280,
+          "sha256": "9cdd9cbc28722dd95e38fa26341eccf4b26a524ff17e12677c3dd69f28040a16",
+          "url": "https://github.com/H234598/Wirtelprimpf-0001/releases/download/archive-0001-media-0005/wirtelprimpf_2026-08-01_18-12-16-212984--c7e58326e197dfa0--b5e4678a.w1280.webp"
+        }
+      ],
+      "width": 2560
     }
   ],
-  "media_count": 786,
+  "media_count": 787,
   "owner": "H234598",
   "schema_version": "1.0.0",
   "shards": [
@@ -30749,10 +30794,10 @@
       "tag": "archive-0001-media-0004"
     },
     {
-      "asset_count": 28,
+      "asset_count": 32,
       "index": 5,
       "open": true,
-      "record_count": 7,
+      "record_count": 8,
       "tag": "archive-0001-media-0005"
     }
   ]
