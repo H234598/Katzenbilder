@@ -1,14 +1,15 @@
 # Wirtelprimpf-0001
 
-Publikationsarchiv für die globalen Wirtelprimpf-Story-Bände 1 bis 50.
+Publikationsarchiv für die globalen Wirtelprimpf-Storys 1 bis 50 beziehungsweise
+die Bücher 1 bis 5. Je zehn vollständig abgeschlossene Storys bilden ein Buch.
 
 - Website: <https://wirtelprimpf-0001.telacore.org>
 - Zentrale: <https://wirtelprimpf.telacore.org>
 - Generator, Cinnamon-Applet und Seitenfabrik: <https://github.com/H234598/Wirtelprimpf-generator>
 
 `Wirtelprimpf/` enthält Storytexte, Einzelteile und die zugehörigen Prompts. Das
-versionierte `media-manifest.json` bindet 779 unveränderliche Originale und ihre
-Webderivate an vier öffentliche GitHub Releases und vollständige
+versionierte `media-manifest.json` bindet 780 unveränderliche Originale und ihre
+Webderivate an fünf öffentliche GitHub Releases und vollständige
 SHA-256-Prüfsummen.
 
 Die Bestandsmigration ist abgeschlossen. Der aktuelle Baum bleibt absichtlich
