@@ -16,8 +16,8 @@ concurrency:
 
 jobs:
   publish:
-    uses: H234598/Wirtelprimpf-generator/.github/workflows/archive-pages.yml@01971ea3eed05d00a1c50a31834496f8dfab65c4
+    uses: H234598/Wirtelprimpf-generator/.github/workflows/archive-pages.yml@0712df4f1cdb332fdc0eb5a74c70b90b534a0a9b
     with:
       archive_index: "1"
       custom_domain: "wirtelprimpf-0001.telacore.org"
-      factory_ref: "01971ea3eed05d00a1c50a31834496f8dfab65c4"
+      factory_ref: "0712df4f1cdb332fdc0eb5a74c70b90b534a0a9b"
