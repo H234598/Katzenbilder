@@ -2973,3 +2973,20 @@ Der Scanner nahm es nicht sofort. Er blinkte gekränkt, wie ein Mensch, dem man 
 Auf dem Monitor erschien eine Notiz, falsch und beinahe glaubwürdig: Ein gespanntes Gummiband speichert Verwaltungsenergie proportional zur Angst, dass jemand die Akte wirklich liest.
 
 Punkt 13:12 erhielt die Brücke einen vorläufigen Reisepass. Unten hob sie eine Planke um eine Katzenlänge, klopfte höflich ans Klippenarchivfenster, und die Möhre verbeugte sich so würdevoll, dass niemand wagte, nach dem Loch zu fragen.
+## 2026-08-06 13:32:01
+
+## 13:12–14:12
+
+Um 13:12 klopfte die Brücke ein zweites Mal ans Fenster, diesmal ungeduldiger, und draußen zitterte eine Planke wie ein ausgestreckter Finger. Im Klippenarchiv wurde es still. Nicht ehrfürchtig still, eher so, wie eine Kantine still wird, wenn die Suppe anfängt, ihren Ausweis zu verlangen.
+
+Weißpfote huschte voraus zur Treppe hinab, klein, weiß, mit mittellangem Fell, das in den grauen Stufenschatten feine silberne Linien bekam, statt einfach nur zu leuchten. Ihre grünen Augen blitzten wie zwei erlaubte Ausnahmen. Schwarzkralle folgte ihr, groß und schwarz, jeder Muskel gespannt; harte Streifen von draußen lagen schräg über seinem Rücken, als hätte die Stadt Wut mit Lineal gezeichnet. Die Möhre thronte wieder im Hut, sehr orange und sehr gegenwärtig. Die Maus war nicht zu sehen, was meistens bedeutete, dass sie schon drei Entscheidungen weiter war.
+
+Unten lag das Rechenzentrum im Fels: kühl, präzise, leicht unheimlich. Eine einzige weiße Bodenlinie führte zwischen schwarzen Racks hindurch zu einem Terminal, keine Schmuckanker, keine lächelnden Pfeile, nur Zahlen, die tatsächlich etwas wussten. Seit dem Kleinen Weltuntergang mochte man hier keine hübschen Umwege mehr. Damals war die alte Westbrücke während der Evakuierung verriegelt geblieben, weil eine Gegenzeichnung fehlte; seitdem sagte man am Südhafen: Wer eine Brücke reisen lässt, zählt die Ufer zweimal.
+
+Auf dem Terminal lief der Antrag der Brücke in einem Container, sauber isoliert, mit Port-Mapping auf Nord-Quartier und Südhafen; innen fragte die Brücke alle acht Sekunden, ob Verbindung dasselbe sei wie Gesellschaft. Der Archivdirektor wollte helfen, was aktenkundig zu vermeiden war, weil Hilfe ohne Eingangsvermerk als Gefühlsausbruch galt. Darüber blinkte: Der Weg werde leider trotzdem erneut verfristet und vorläufig simuliert.
+
+Da begann der harmlose Unfug. Weißpfote tippte mit einer Pfote gegen ein Etikett, Schwarzkralle setzte sich exakt auf das Kabel „Ablehnung“, und die Möhre rollte mit würdevoller Absicht über den Trackball. Oben lief sofort ein Fährkarren los und lieferte drei Handtücher an den Ausschuss für Brückenangst. Niemand wurde nass. Alle wurden zuständig.
+
+Die Maus, verborgen hinter einer Kabelklemme, änderte nur eine Kleinigkeit: Die Brücke durfte nicht fortgehen, aber sie durfte einen Probeschritt als Rückkehr anlegen. Mit Rückholzug, falls jemand schrie. Die Verlängerung verletzte keinen Erhaltungssatz; sie lagerte bloß Schuld in Spannung um, gemessen in Newton pro Heimweh.
+
+Punkt 14:12 legte die Brücke ihre neue Planke auf den schwarzen Stein der alten Rampe, vorsichtig wie eine Pfote auf unbekanntem Boden. Nichts stürzte, niemand blieb zurück. Und tief unter dem Kliff antwortete etwas, das keine Akte war.
