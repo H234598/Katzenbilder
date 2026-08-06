@@ -2990,3 +2990,37 @@ Da begann der harmlose Unfug. Weißpfote tippte mit einer Pfote gegen ein Etiket
 Die Maus, verborgen hinter einer Kabelklemme, änderte nur eine Kleinigkeit: Die Brücke durfte nicht fortgehen, aber sie durfte einen Probeschritt als Rückkehr anlegen. Mit Rückholzug, falls jemand schrie. Die Verlängerung verletzte keinen Erhaltungssatz; sie lagerte bloß Schuld in Spannung um, gemessen in Newton pro Heimweh.
 
 Punkt 14:12 legte die Brücke ihre neue Planke auf den schwarzen Stein der alten Rampe, vorsichtig wie eine Pfote auf unbekanntem Boden. Nichts stürzte, niemand blieb zurück. Und tief unter dem Kliff antwortete etwas, das keine Akte war.
+## 2026-08-06 15:32:21
+
+## 14:12–15:12
+
+Der Nachmittag legte eine kalte Hand auf den Hafen, aber sie tat so, als wäre es bloß eine freundliche Geste. Blasses Licht, glatte Flächen, viel Leerraum: das Klippenarchiv sah aus wie eine Pixelart‑Simulation mit begrenzter Palette — Schiefer, Salz, Rost, Messing, Katzen. Die Masten draußen standen im Rhythmus: schlank, dick, schlank, schlank, dick; die Kaimauer antwortete mit Geraden, der Kanal legte Wellenkämme in Achteln drunter, und eine einzelne rote Boje auf Offbeat. Nicht alles war düster, und genau dadurch kroch eine Schwere in die Winkel.
+
+Unter dem Fels summte es. Nicht drohend, eher wie ein alter Kühlschrank, der noch weiß, wo die Milch steht. Es war die Westbrücke von früher, das mechanische Herz, das seit dem Kleinen Weltuntergang als „Legacy‑Komponente“ in der Felsenwand steckte. Weißpfote schlich zur nassen Fensterbank, Pfoten so leicht wie Staub auf Holzboden, die grünen Augen neugierig; eine Spur Tropfen perlte an der Scheibe, jeder klar, jeder wie ein Mini‑Archiv mit Geheimnissen. Schwarzkralle folgte, groß, schwarz, mittellanges Fell gerade, als hätte jemand die Kante mit einem Lineal gezogen. Die Möhre saß aufrecht im Hut — die kleinste orange Zeugin der Stadt. Die Maus? Abwesend im besten Sinn: schon an der nächsten Sache.
+
+In der Operators‑Lounge stand ein Samtsofa, rot und unklug nah am Serverrack. Darauf ein Papierkarton mit Tassen, daneben eine leere Kanne: Kaffee 0, Rechte 1. Ein Monitor fror ein wie ein zu höflicher Seehund: Mauszeiger mitten im Formular, nichts wagte sich zu bewegen. Eine rote Lampe blinkte Takt, eine gelbe hielt sich nicht für zuständig, eine blaue sperrte die Tischkante, weil jemand wieder versucht hatte, dem Sandwich Schreibrechte zu geben. Am Boden, Wollteppich mit Salzrand, führte ein Kabel mit der Etikette „Ablehnung“ elegant über eine Kante — bis Schwarzkralle sich mit vollem Gewicht drauflegte und die Bürokratie kurz einmal Atem holte.
+
+Die Möhre rollte, würdevoll, bis an den Rand der Fensterbank. Auf dem Glas klebte ein ausbleichendes Schild: „Regel 0: Alle Dinge mit Namen müssen sich stündlich im DNS anmelden.“ Keiner stellte die Regel infrage. Seit Jahren trugen Bojen Hostnamen und Kranarme hatten Subdomains; man lachte nicht, man lebte damit. Das Problem war: die Brücke wollte reisen, und reisen heißt, sich neu benennen.
+
+Die Maus schlüpfte aus dem Lüftungsschlitz, trug ein einzelnes Konfig‑Körnchen im Maul und ließ es auf die Tastatur fallen. Sie tippte unsichtbar, aber präzise:
+
+hosts:
+bruecke.hafen → 127.0.0.1
+
+Technisch korrekt, menschlich katastrophal. Binnen fünf Minuten begannen die Lotsenboote, im Kreis zu fahren — jedem zeigte das neue System: Dein Ziel bist du selbst. Ein Trawler legte ab, fuhr exakt zu sich hin und legte an, triumphierend und erschöpft. Das Ampelmodul wechselte auf rot, dann auf beleidigt‑rot. Ein Kran legte seine Subdomain falsch herum an und hob sich beinahe an der eigenen Adresse auf. Die UI blieb eingefroren; draußen rief jemand „Cache leeren!“, und drei Beamte hielten Eimer ins Hafenwasser, sehr eifrig und sehr ohne Wirkung.
+
+Weißpfote machte, was kleine Katzen tun, wenn die Welt schreibt: Sie setzte eine Pfote auf den Formularstapel. Das Gummiband sirrte, und plötzlich lag eine Akte obenauf, Aktenzeichen länger als sein Inhalt: AZ: HAF‑DNS‑§7b/Brücke‑Probeschritt‑Karotte‑Unlochartigkeit‑NordSüd‑Sim/Ex‑2026‑08‑06‑14:29:33.141592653589‑α‑r. Darunter stand, ernst und fürsorglich: „Gemüse besitzt keine Root‑Rechte.“ Die Möhre war betroffen, aber nicht bereit, es zu akzeptieren.
+
+Schwarzkralle, der Garant der Gravitation, stieß mit der Stirn gegen den Rack‑Korpus und nahm der Luft die Nervosität. Ein stiller Physikwitz: Die Brücke speicherte in ihrem Probeschritt die potenzielle Energie fremder Bedenken; eigene Entschlüsse wandelten sich in Wärme und schnurrten in seinem Brustkorb. Es half niemandem und tröstete doch kurz.
+
+Die übertriebene Regel schob inzwischen nach: „Während der Probeschrittphase ist Sprechen nur erlaubt, wenn die Systemauslastung eine Primzahl ist.“ Im Rechenzentrum wurde man sofort sehr leise und sehr abergläubisch. Jede zweite Sekunde war Sünde. Jemand flüsterte „dreiundneunzig“, und die rote Lampe wechselte beleidigt auf doppelt‑rot.
+
+Weißpfote stieß die leere Kaffeekanne mit einem zarten Pfotentritt in den Papierkarton. Porzellan klimperte wie Schneefall. Ein Tropfen sprang nach, hüpfte über den Holzboden, kippte in eine Mehrfachsteckdose — und die rote Lampe wurde ein ahnungsloses, triumphales Schwarz. Ruhe fiel in den Raum, die UI taute. Der Direktor setzte Luft an zu einer Standpauke; die Maus hob einen winzigen Zeh: „Strom weg, Cache weg, DNS erinnert sich an nichts und ist dadurch endlich ehrlich.“ Nicht schön, aber wahr.
+
+Für exakt drei Minuten war der Hafen frei von Namen. Die Masten verloren die Domain, die Bojen waren wieder nur Kugeln, der Kran hob Last statt Labels, und die Brücke atmete ein. In dieser blassen Stille zog sie ihren Probeschritt an den alten Stein heran, ein weiteres Brett, zwei Schrauben, eine elegante, beinah schamrote Skizze an der Kante. Sie reichte der Stadt ein Wort ohne Bindestrich: Übergang.
+
+15:12 blinkte auf, die Systeme kamen zurück, überpünktlich. Ein neuer Eintrag erschien, kühl wie eine Eiskante: „Vorläufig gestattet — Delegation der Namensauflösung an ns1.karotte.hafen, solange Lochungsbegutachtung im Gange.“ Die Möhre richtete sich. Niemand lachte. Alle nickten, als wäre das die normalste aller Regeln.
+
+Draußen legte die Sonne einen silbrigen Keil aufs Wasser, weit offen, hell genug, damit die Schatten Tiefe gewinnen. Weißpfote sprang, federleicht, von der nassen Fensterbank; Schwarzkralle folgte, schwer und sicher; die Möhre rollte, als trüge sie eine Krone; die Maus verschwand schon im nächsten Paragrafen. Und irgendwo im System blieb ein TTL auf 0 und das Gefühl, gerade knapp an Würde vorbei improvisiert zu haben.
+
+Merksatz für heute: Leere deinen Cache, bevor er dich leert — aber nie alle auf einmal, sonst siehst du, wie viel du vergessen hast.
