@@ -2933,3 +2933,22 @@ Dann begann der höfliche Aufstand. Weißpfote tippte den Papierstoß an — nur
 Die Möhre rollte vom Hut auf das Formular und hinterließ einen orangenen Halbmond genau über der fehlenden Lochung. Der Sensor hielt inne. In der letzten Minute klang sogar Bürokratie beinahe lebendig.
 
 Punkt 12:12 stempelte der Beamte: „Vorläufig anerkannt.“ Doch aus dem Prüfkasten fuhr ein neuer, glänzender Schlitz, und der nächste Bescheid kroch heraus: „Originalkarotte ungelocht zur persönlichen Lochungsbegutachtung vorlegen.“ Die Maus erstarrte. Weißpfote sprang schon. Schwarzkralle packte den Hut mit den Zähnen, und die Möhre begann, sehr entschieden, rückwärts zu rollen.
+## 2026-08-06 11:31:32
+
+## 11:12–12:12
+
+Knapp über den nassen Bohlen des Südhafens begann die Stunde so niedrig, dass sogar die Krabben größer wirkten als Zuständigkeiten. Der Grenzkanal klatschte gegen Pfähle; vom Meer her kam Salzlicht, und hinter der Mole standen Felsen, Brandung und Horizont in einer Reihe, als warteten sie auf ihre Nummer. Den Touristen erzählte man hier, die Felsen seien versteinerte abgelehnte Anträge. Das war gelogen; sie waren Basalt. Aber sie sahen erschöpft genug aus, um die Lüge zu tragen.
+
+Die Anfrage vom Lautsprecher hatte sich in eine Einladung verwandelt: Entscheidung nur im Klippenarchiv, persönlich, mit mitgeführter Authentifikationswurzel. Ein Fährkarren namens Amtsaal brachte die Reisenden hinüber, ein schmales Ding aus Messing, Glas und gebogenen Jugendstilranken, als habe jemand eine Teekanne mit einem Straßenbahnfahrplan gekreuzt. Weißpfote sprang zuerst hinein, grüne Augen auf Sturm gestellt. Schwarzkralle folgte langsamer, groß, schwarz, so würdevoll, dass die Möwe, die ihm ein Formularblatt auf den Kopf fallen ließ, sofort aussah, als habe sie ihn gekrönt. Die Möhre bestand darauf, aufrecht zu reisen; im Scanner rollte sie zweimal beleidigt gegen die Kante, bis eine Beamtin sie trocken als „mitreisende Kleinwurzel mit Aussageabsicht“ erfasste. Niemand war böse. Alle waren unsterblich korrekt. Am Kassenschalter hing ein Schild: „Bitte nicht interpretieren, wir sind am Arbeiten.“
+
+Die Maus reiste, wie kluge Wesen reisen: nicht sichtbar, unter der Fahrscheinrolle. Neben ihr hing ein Schaubild des Hafenamts, ohne niedliche Fische, ohne Schmuckmöwen, nur Strömungspfeile, Stempelfolgen und eine dünne Linie, die erklärte, warum man eine Brücke nicht besitzen kann, ohne den Gegenverkehr mitzuerben. Das war fast ein Spiel. Der Beamte schob tatsächlich ein Brett mit Muscheln und kleinen Holzstempeln heran: Wer einen Übergang legt, öffnet zwei Wege; wer Zoll verlangt, muss auch Sandwichdrohnen passieren lassen. Weißpfote schlug die Muschel des Nord-Quartiers vom Brett. Die Maus verstand die Regel und ließ sie geschehen.
+
+Auf der Fahrt wurde die Welt albern. Ein Automat schenkte Tee in einen leeren Becher, entschuldigte sich und stempelte den Dampf. Nach dem Kleinen Weltuntergang hatte man die unteren Kais auf Stelzen gesetzt; jetzt wohnten Muscheln an den Geländern, und die Notfallautomaten verkauften wasserfeste Kekse. An einer Wand funkelte ein salzverwaschenes Plakat: „LEBEN: Der Kosmos würfelt, der Staub führt Ablage.“
+
+Als der Karren schaukelte, rutschte Weißpfote an Schwarzkralle. Oder Schwarzkralle an Weißpfote. Die Messunsicherheit war erheblich und wurde von beiden nicht kommentiert; je genauer man ihren Abstand bestimmen wollte, desto weniger wusste man, wer zuerst geschnurrt hatte.
+
+Im Klippenarchiv setzte die Maus einen winzigen Patch. Auf dem Terminal stand harmlos:
+
+`bridge.ownership = "shared_until_everyone_stops_arguing"`
+
+Der Rechner nahm es hin, als sei Vernunft ein Treiber. Punkt 12:12 standen die Katzen oben auf dem Felsen. Unter ihnen öffnete sich der Hafen. Hoch. Offen. Weiter. Die Möhre glänzte im Hut, und aus dem Terminal kam ein leises Ping: Reiseantrag eingegangen — Antragsteller: Brücke selbst.
