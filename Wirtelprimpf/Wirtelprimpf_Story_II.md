@@ -2952,3 +2952,24 @@ Im Klippenarchiv setzte die Maus einen winzigen Patch. Auf dem Terminal stand ha
 `bridge.ownership = "shared_until_everyone_stops_arguing"`
 
 Der Rechner nahm es hin, als sei Vernunft ein Treiber. Punkt 12:12 standen die Katzen oben auf dem Felsen. Unter ihnen öffnete sich der Hafen. Hoch. Offen. Weiter. Die Möhre glänzte im Hut, und aus dem Terminal kam ein leises Ping: Reiseantrag eingegangen — Antragsteller: Brücke selbst.
+## 2026-08-06 12:18:48
+
+## 12:12–13:12
+
+Das Ping um 12:12 war winzig, trotzdem duckten sich die Möwen; im Klippenarchiv hatte sogar ein kleiner Ton Amtsrang. Auf dem Terminal stand noch: *Reiseantrag eingegangen — Antragsteller: Brücke selbst.* Gleich darauf spuckte die Rohrpost eine zweite Ausfertigung aus, angeblich aus derselben vergangenen Stunde: *Originalkarotte ungelocht vorlegen.* Offiziell gab es solche Doppelungen nicht. Offiziell hatten Brücken auch keine Wünsche. Unten knarrte die Brücke beleidigt.
+
+Mittag roch nach Salz, warmem Messing und Algensuppe. Seit dem Kleinen Weltuntergang trug der Hafen seine Farben wie alte Flecken: aschgraue Bohlen, schwefelgelbe Warnstreifen, krankes Grün in den Tidenbecken, ein verblichenes Plakat mit blutigem Sonnenuntergang über der alten Evakuierungsrampe. Die Stelzhäuser trugen Schienen an den Bäuchen, auf denen Fährkarren Suppe, Briefe und wasserfeste Kekse zogen; was die See an Wind brachte, kurbelte Kondensatoren an, die Automaten wärmten, die wiederum Drohnen mit Tee und Sandwiches versöhnten. Ein Kind im gelben Regenmantel biss in einen Keks und machte die Klippe mit seinem winzigen Knirschen sehr groß.
+
+Weißpfote stand auf dem Registriertisch, kleine weiße Hauskatze mit mittellangem Fell, Ohren vor, Schwanz in Fragezeichenform, grüne Augen scharf auf das Gummiband gerichtet. Schwarzkralle, groß und schwarz, lag daneben wie ein königlicher Türstopper; sein Schwanz klopfte langsam, seine grünen Augen sagten: Niemand öffnet hier etwas ohne Masse. Die kleine Möhre saß im Hut, aufrecht und unlochartig empört. Die Maus war nur ein grauer Gedanke hinter dem Bakelitknopf des Scanners, aber sie sah alles.
+
+Die Akte der Brücke lag in der Mitte. Um sie spannte sich ein Gummiband, aschgrau, trocken, heldenfeindlich. Der Archivdirektor, eben noch ein Mann mit Uniformknöpfen voller Gezeitenrecht, schrumpfte davor auf Radiergummigröße. Weißpfote schlug zu, das Band sirrte zurück, ihre Ohren klappten beleidigt seitwärts. Schwarzkralle legte eine Pfote auf den Stapel; der Tisch seufzte. Am Bedienpult meldeten Lampen: Grün für Normalbetrieb, Gelb für Warnung, Rot für kritisch, Blau sperrte die Tischkante als isolierte Zone, weil ein Sandwich dort zu viele Rechte beantragt hatte.
+
+Die Maus tippte im Verborgenen:
+
+`accept_missing_hole_as_personal_presence = true`
+
+Der Scanner nahm es nicht sofort. Er blinkte gekränkt, wie ein Mensch, dem man gerade „bitte warten“ gesagt hatte. Dann rollte die Möhre vor, warf ihren orangenen Schatten auf die Akte und ließ genau da nichts zurück, wo ein Loch hätte sein sollen. Das Gummiband gab auf. Es sprang dem Archivdirektor an die Mütze und machte aus ihm einen Hasen mit Zuständigkeit.
+
+Auf dem Monitor erschien eine Notiz, falsch und beinahe glaubwürdig: Ein gespanntes Gummiband speichert Verwaltungsenergie proportional zur Angst, dass jemand die Akte wirklich liest.
+
+Punkt 13:12 erhielt die Brücke einen vorläufigen Reisepass. Unten hob sie eine Planke um eine Katzenlänge, klopfte höflich ans Klippenarchivfenster, und die Möhre verbeugte sich so würdevoll, dass niemand wagte, nach dem Loch zu fragen.
