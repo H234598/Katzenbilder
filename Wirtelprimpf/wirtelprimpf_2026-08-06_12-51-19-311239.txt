@@ -1,0 +1,99 @@
+Erzeuge ein einzelnes hochwertiges Bild im Wirtelprimpf-Stil.
+Die Szene soll wie eine kleine Geschichte wirken. Keine Textlastigkeit; falls Text vorkommt, nur als kleines Hintergrunddetail. Subtiler Humor auf den zweiten Blick ist erwuenscht.
+Wenn gezogene Regeln oder Einstellungen nicht direkt zusammenpassen, deute sie sinnvoll um, statt sie wortwoertlich kollidieren zu lassen. Diese Reibung ist Teil des Zufalls.
+
+Zwingende Bildregeln:
+- Genau zwei Hauskatzen.
+- Eine kleinere weisse weibliche Katze.
+- Eine etwas groessere schwarze maennliche Katze.
+- Beide haben gruene Augen.
+- Beide haben mittellanges Fell.
+- Die Katzen sind meistens echte Tiere, keine Menschen, keine Kleidung, keine vermenschlichten Posen.
+- Wenn die Katzen vermenschlicht werden, dann mit Humor.
+- Keine Katze sitzt in einer Kiste, keinem Regal, keinem Schrank, keinem Topf, keiner Nische.
+- Die weisse Katze darf nicht uebertrieben suess, kawaii oder puppenhaft wirken.
+- Die weisse Katze soll ruhig, wuerdevoll und etwas keck wirken. In Gefahr,ist sie die mutigere.
+- Die schwarze Katze soll groesser, unaufmerksamer und lauter, sowie minimal ungeschickter wirken.
+- Beide Katzen zeigen Mut wenn es drauf an kommt.
+- Beide Katzen muessen klar sichtbar sein.
+- Irgendwo auf dem Bild ist eine kleine Maus versteckt.
+
+Bildaufbau fix:
+- Definiere zuerst Subjekt, Handlung, Umgebung, Licht, Perspektive, Stil und Ausschluesse in genau dieser Reihenfolge.
+- Beschreibe ein starkes Hauptmotiv und hoechstens drei Nebenelemente, damit das Bild nicht visuell zerfaellt.
+- Lege eine klare Kameraposition fest: Totale, Halbtotale, Nahaufnahme, Makro, Vogelperspektive oder Froschperspektive.
+- Verwende eine einzige Hauptlichtquelle und beschreibe ihre Richtung, Farbe und Haerte.
+- Arbeite mit Tiefe: Vordergrundobjekt, Hauptmotiv im Mittelgrund, atmosphaerischer Hintergrund.
+- Schliesse mit dem wichtigsten Ausschluss, damit das Modell ihn nicht zwischen Dekoration verliert.
+
+Settings fix:
+- Generiere ein komplett neues Setting, das nichts mit dem alten zu tun hat. Der Fantasie sind dabei keine Grenzen gesetzt.
+- Beginne mit Ort, Epoche, gesellschaftlicher Ordnung, Technologiegrad und zentralem Konflikt.
+- Beschreibe das Alltaegliche zuerst, dann das Wunderliche, damit das Setting glaubwuerdig atmet.
+- Formuliere das Setting so, dass sofort eine Szene darin beginnen koennte.
+- Beende mit einer offenen Spannung, nicht mit einer fertigen Enzyklopaedie.
+
+Ausgewaehlte Kategorien:
+
+Bildaufbau Dynamisch:
+- Lege eine klare Kameraposition fest: Totale, Halbtotale, Nahaufnahme, Makro, Vogelperspektive oder Froschperspektive.
+
+Settings Dynamisch:
+- Lege eine Ressource fest, um die sich Wirtschaft, Politik und Verbrechen drehen.
+
+Handlungen:
+- Die beiden Katzen machen typischen Cyberpunkkram.
+
+Schabernack:
+- Verwandle ein ernstes Ritual durch ein winziges falsches Detail in kontrolliertes Chaos.
+
+Jokes:
+- Nutze konkrete Rollen, Orte und Gegenstände statt generischer „jemand“-Sätze.
+
+Bürokratiewitze:
+- Ein Formularwitz braucht eine Frage, deren Antwort offensichtlich ist und trotzdem drei Anlagen verlangt.
+
+Physikwitze:
+- Thermodynamik eignet sich hervorragend für Witze über Kaffee, Ordnung und unvermeidliches Scheitern.
+
+IT-Witze:
+- Ein guter Admin-Witz endet mit einem Cronjob, der alles schlimmer macht.
+
+IT-Bilder:
+- Ein gutes IT-Bild zeigt Ordnung und Chaos gleichzeitig.
+
+Katzenbilder:
+- Nutze Spiegelungen in Fenstern, Pfützen oder glänzenden Böden für poetische Wirkung.
+
+Landschaftsbilder:
+- Definiere zuerst Landschaftstyp, Jahreszeit, Tageszeit, Wetter und Blickrichtung.
+
+Stimmungen:
+- Geborgenheit braucht Wärme, Nähe, vertraute Gegenstände und geringe Gefahr.
+
+Bildstile:
+- Barockstil nutze Drama, Bewegung, Stofffülle, Gold und Lichtinszenierung.
+
+Bildstimmungen:
+- Schließe mit einer dominanten Bildstimmung und streiche widersprechende Nebenstimmungen.
+
+Infograficals:
+- Jede Zahl braucht Kontext, Einheit und Vergleich.
+
+Motivationals:
+- Schreibe so, dass der Satz an einer Wand stehen könnte, ohne hohl zu werden.
+
+Demotivationals:
+- Nutze leere Räume, Wartezonen und kaputte Automaten als Motive.
+
+Top-Demotivationals:
+- Nutze Pathos als Fallhöhe.
+
+Weltuntergang:
+- Der Weltuntergang kann hell sein; nicht jede Katastrophe ist dunkel.
+
+Dichten:
+- Setze Klang bewusst ein: harte Konsonanten für Druck, weiche Laute für Nähe.
+
+Spielen:
+- Verwende Symbole konsistent und vermeide ähnliche Icons für verschiedene Bedeutungen.
